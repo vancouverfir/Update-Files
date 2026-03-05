@@ -1,0 +1,77 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CZBB Taxiways\A:freetext
+Free Text:CZBB Taxiways\All circuits 800 AGL:freetext
+Free Text:CZBB Taxiways\Apron I:freetext
+Free Text:CZBB Taxiways\Apron II:freetext
+Free Text:CZBB Taxiways\Apron III (Private Parking):freetext
+Free Text:CZBB Taxiways\B:freetext
+Free Text:CZBB Taxiways\C:freetext
+Free Text:CZBB Taxiways\Ctrl Twr:freetext
+Free Text:CZBB Taxiways\D:freetext
+Free Text:CZBB Taxiways\E1:freetext
+Free Text:CZBB Taxiways\E2:freetext
+Free Text:CZBB Taxiways\F1:freetext
+Free Text:CZBB Taxiways\F2:freetext
+Free Text:CZBB Taxiways\G:freetext
+Free Text:CZBB Taxiways\H:freetext
+Free Text:CZBB Taxiways\LAHSO Rwy 25 short 13/31 4582':freetext
+Free Text:CZBB Taxiways\LAHSO Rwy 31 short 07/25 4505':freetext
+Free Text:CZBB Taxiways\No circuits Rwy 07/25 between 23-07 Lcl:freetext
+Free Text:CZBB Taxiways\Pad 3, 2:freetext
+Free Text:CZBB Taxiways\Pad 6, 5, 4:freetext
+Free Text:CZBB Taxiways\Rgt hand circuits Rwy 25 & 31:freetext
+Free Text:CZBB Taxiways\Rwy 13/31 preferred for ngt ops:freetext
+Free Text:CZBB Taxiways\Terminal:freetext
+Free Text:CZBB Taxiways\Twy F pvt use only:freetext
+Geo:CZBB Groundlayout:
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+Regions:CZBB Ground Files:polygon
+Runways:CZBB 07-25:name
+Runways:CZBB 13-31:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:49.066504:-123.042777:49.085968:-122.984943
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CZBB
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

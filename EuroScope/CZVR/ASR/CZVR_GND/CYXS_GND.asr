@@ -1,0 +1,67 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYXS Taxiways\A:freetext
+Free Text:CYXS Taxiways\Apron I:freetext
+Free Text:CYXS Taxiways\Apron II:freetext
+Free Text:CYXS Taxiways\Apron III:freetext
+Free Text:CYXS Taxiways\Apron IV:freetext
+Free Text:CYXS Taxiways\Apron V:freetext
+Free Text:CYXS Taxiways\C:freetext
+Free Text:CYXS Taxiways\D:freetext
+Free Text:CYXS Taxiways\E:freetext
+Free Text:CYXS Taxiways\Esso:freetext
+Free Text:CYXS Taxiways\F:freetext
+Free Text:CYXS Taxiways\Rgt hand circuits Rwys 19, 24 & 33:freetext
+Free Text:CYXS Taxiways\Rwy 01/19 rstd to 12,500 Lbs for ldg & tkof. Day use only.:freetext
+Free Text:CYXS Taxiways\Terminal:freetext
+Free Text:CYXS Taxiways\Twr:freetext
+Geo:CYXS Groundlayout:
+Geo:GEO:
+Regions:CYXS Ground Files:polygon
+Runways:CYXS 01-19:name
+Runways:CYXS 06-24:name
+Runways:CYXS 15-33:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:53.867311:-122.729843:53.903859:-122.621247
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYXS
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

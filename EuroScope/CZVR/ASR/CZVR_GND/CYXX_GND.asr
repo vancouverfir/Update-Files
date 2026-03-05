@@ -1,0 +1,83 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYXX Taxiways\A:freetext
+Free Text:CYXX Taxiways\A:freetext
+Free Text:CYXX Taxiways\A:freetext
+Free Text:CYXX Taxiways\A:freetext
+Free Text:CYXX Taxiways\A1:freetext
+Free Text:CYXX Taxiways\Apron I:freetext
+Free Text:CYXX Taxiways\B:freetext
+Free Text:CYXX Taxiways\Blast Fence:freetext
+Free Text:CYXX Taxiways\C:freetext
+Free Text:CYXX Taxiways\C:freetext
+Free Text:CYXX Taxiways\C:freetext
+Free Text:CYXX Taxiways\C:freetext
+Free Text:CYXX Taxiways\C:freetext
+Free Text:CYXX Taxiways\C1:freetext
+Free Text:CYXX Taxiways\C4:freetext
+Free Text:CYXX Taxiways\Ctrl Twr:freetext
+Free Text:CYXX Taxiways\D:freetext
+Free Text:CYXX Taxiways\D:freetext
+Free Text:CYXX Taxiways\D:freetext
+Free Text:CYXX Taxiways\FBO Shell:freetext
+Free Text:CYXX Taxiways\G:freetext
+Free Text:CYXX Taxiways\HELI TRAINING AREA:freetext
+Free Text:CYXX Taxiways\LAHSO Rwy 19 short 07/25 4600':freetext
+Free Text:CYXX Taxiways\LAHSO Rwy 25 short 01/19 8400':freetext
+Free Text:CYXX Taxiways\Pad A:freetext
+Free Text:CYXX Taxiways\Rgt hand circuit Rwys 07 & 01:freetext
+Free Text:CYXX Taxiways\Run-Up Apron:freetext
+Free Text:CYXX Taxiways\Terminal:freetext
+Free Text:CYXX Taxiways\TORA Rwy 01 from C 4202':freetext
+Free Text:CYXX Taxiways\Twy D uncontrolled East of Blast Fence:freetext
+Free Text:CYXX Taxiways\Twy G uncontrolled:freetext
+Geo:CYXX Groundlayout:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+Regions:CYXX Ground Files:polygon
+Runways:CYXX 01-19:name
+Runways:CYXX 07-25:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:49.012849:-122.400431:49.036488:-122.330189
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYXX
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

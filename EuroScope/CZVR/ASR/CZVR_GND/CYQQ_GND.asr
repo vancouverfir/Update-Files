@@ -1,0 +1,79 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYQQ Taxiways\A:freetext
+Free Text:CYQQ Taxiways\A:freetext
+Free Text:CYQQ Taxiways\A:freetext
+Free Text:CYQQ Taxiways\A:freetext
+Free Text:CYQQ Taxiways\A:freetext
+Free Text:CYQQ Taxiways\ARM:freetext
+Free Text:CYQQ Taxiways\B:freetext
+Free Text:CYQQ Taxiways\C:freetext
+Free Text:CYQQ Taxiways\Ctrl Twr:freetext
+Free Text:CYQQ Taxiways\CVAC Ramp:freetext
+Free Text:CYQQ Taxiways\D:freetext
+Free Text:CYQQ Taxiways\E:freetext
+Free Text:CYQQ Taxiways\F:freetext
+Free Text:CYQQ Taxiways\Heli 500' ASL:freetext
+Free Text:CYQQ Taxiways\Jet 1500' ASL:freetext
+Free Text:CYQQ Taxiways\LAHSO Rwy 30 short 18/36 7450':freetext
+Free Text:CYQQ Taxiways\LAHSO Rwy 36 short 12/30 3150':freetext
+Free Text:CYQQ Taxiways\Pad 1:freetext
+Free Text:CYQQ Taxiways\Pad 2:freetext
+Free Text:CYQQ Taxiways\Pad 3:freetext
+Free Text:CYQQ Taxiways\Prop 1000' ASL:freetext
+Free Text:CYQQ Taxiways\QRA:freetext
+Free Text:CYQQ Taxiways\Rgt hand circuits Rwy 30 & 36:freetext
+Free Text:CYQQ Taxiways\Terminal:freetext
+Geo:CYQQ Groundlayout:
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+Regions:CYQQ Ground Files:polygon
+Runways:CYQQ 12-30:name
+Runways:CYQQ 18-36:name
+VORs:UQQ:name
+VORs:UQQ:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:49.702914:-124.934571:49.726555:-124.864324
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYQQ
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

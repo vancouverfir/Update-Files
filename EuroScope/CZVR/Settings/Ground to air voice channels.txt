@@ -1,0 +1,99 @@
+VOICE
+AG:CYHC_TWR Vancouver Harbour Tower:118.400
+AG:CYHC_DEL Vancouver Harbour Delivery:125.350
+AG:CYHC_ATIS Vancouver Harbour ATIS:126.800
+AG:CYLW_GND Kelowna Ground:121.700
+AG:CYLW_TWR Kelowna Tower:119.600
+AG:CYLW_ATIS Kelowna ATIS:127.500
+AG:CYLW_APP Vancouver Centre:133.500
+AG:CYLW_1_APP Vancouver Centre:133.500 
+AG:CYNJ_GND Langley Ground:121.900
+AG:CYNJ_TWR Langley Tower:119.000
+AG:CYNJ_ATIS Langley ATIS:124.500
+AG:CYPK_GND Pitt Meadows Ground:123.800
+AG:CYPK_TWR Pitt Meadows Tower:126.300
+AG:CYPK_ATIS Pitt Meadows ATIS:125.000
+AG:CYPR_ATIS Prince Rupert ATIS:128.575
+AG:CYQQ_APP Comox Approach:134.100
+AG:CYQQ_DEP Comox Departure:123.700
+AG:CYQQ_GND Comox Ground:119.750
+AG:CYQQ_TWR Comox Tower:126.200
+AG:CYQQ_ATIS Comox ATIS:118.600
+AG:CYVR_APP Vancouver Arrival:128.600
+AG:CYVR_1_APP Vancouver Arrival:128.600
+AG:CYVR_DEL Vancouver Delivery:121.400
+AG:CYVR_1_DEL Vancouver Delivery:121.400
+AG:CYVR_A_GND Vancouver Apron:130.700
+AG:CYVR_DEP Vancouver Departure:132.300
+AG:CYVR_1_DEP Vancouver Departure:132.300
+AG:CYVR_GND Vancouver Ground:121.700
+AG:CYVR_1_GND Vancouver Ground:121.700
+AG:CYVR_L_APP Vancouver Arrival:133.100
+AG:CYVR_N_DEP Vancouver Departure:126.125
+AG:CYVR_N_GND Vancouver Ground:127.150
+AG:CYVR_P_GND Vancouver Pad Control:131.970
+AG:CYVR_N_TWR Vancouver Tower:119.550
+AG:CYVR_O_TWR Vancouver Tower:125.650
+AG:CYVR_TWR Vancouver Tower:118.700
+AG:CYVR_1_TWR Vancouver Tower:118.700
+AG:CYVR_T_APP Vancouver Terminal:125.200
+AG:CYVR_ATIS Vancouver ATIS:124.600
+AG:CYXS_GND Prince George Ground:121.900
+AG:CYXS_TWR Prince George Tower:118.300
+AG:CYXS_ATIS Prince George ATIS:128.725
+AG:CYXX_GND Abbotsford Ground:121.800
+AG:CYXX_TWR Abbotsford Tower:119.400
+AG:CYXX_ATIS Abbotsford ATIS:119.800
+AG:CYYJ_APP Victoria Approach:125.450
+AG:CYYJ_1_APP Victoria Approach:125.450
+AG:CYYJ_DEP Victoria Departure:125.450
+AG:CYYJ_1_DEP Victoria Departure:125.450
+AG:CYYJ_DEL Victoria Delivery:126.400
+AG:CYYJ_1_DEL Victoria Delivery:126.400
+AG:CYYJ_GND Victoria Ground:121.900
+AG:CYYJ_1_GND Victoria Ground:121.900
+AG:CYYJ_TWR Victoria Tower:119.700
+AG:CYYJ_1_TWR Victoria Tower:119.700
+AG:CYYJ_O_TWR Victoria Tower:119.100
+AG:CYYJ_ATIS Victoria ATIS:118.800
+AG:CZBB_GND Boundary Bay Ground:124.300
+AG:CZBB_TWR Boundary Bay Tower:118.100
+AG:CZBB_O_TWR Boundary Bay Tower:127.600
+AG:CZBB_ATIS Boundary Bay ATIS:125.500
+AG:CYZT_F_TWR Port Hardy Radio:122.200
+AG:CYZT_R_TWR Port Hardy Radio:123.250
+AG:CYAZ_F_TWR Tofino Radio:123.250
+AG:CYCD_F_TWR Nanaimo Radio:122.100
+AG:CYCD_ATIS Nanaimo ATIS:128.425
+AG:CYCD_F_GND Nanaimo Ground:122.600
+AG:CYCG_F_TWR Castlegar Radio:122.100
+AG:CYBL_F_TWR Campbell River Radio:122.000
+AG:CYBL_ATIS Campbell River ATIS:128.550
+AG:CYKA_F_TWR Kamloops Radio:125.700
+AG:CYKA_DEL Kamloops Delivery:121.900
+AG:CYQZ_F_TWR Quesnel Radio:122.200
+AG:CYWL_F_TWR Williams Lake Radio:122.300
+AG:CYWL_R_TWR Williams Lake Radio:122.200
+AG:CYXC_F_TWR Cranbrook Radio:122.300
+AG:CYXT_F_TWR Terrace Radio:122.000
+AG:CYXT_R_TWR Terrace Radio:122.300
+AG:CYYD_F_TWR Smithers Radio:122.300
+AG:CYYF_F_TWR Penticton Radio:118.500
+AG:CYZP_F_TWR Sandspit Radio:122.300
+AG:CYWH_F_TWR Victoria Harbour Radio:122.200
+AG:CZBB_ATIS Boundary Bay ATIS:125.500
+AG:CZVR_CTR Vancouver Centre:133.700
+AG:CZVR_1_CTR Vancouver Centre:133.700
+AG:CZVR_A_CTR Vancouver Centre:132.350
+AG:CZVR_C_CTR Vancouver Centre:134.550
+AG:CZVR_E_CTR Vancouver Centre:125.950
+AG:CZVR_F_CTR Pacific Radio:126.700
+AG:CZVR_H_CTR Vancouver Centre:128.800
+AG:CZVR_K_CTR Vancouver Centre:132.200
+AG:CZVR_N_CTR Vancouver Centre:134.400
+AG:CZVR_S_CTR Vancouver Centre:135.250
+AG:CZVR_W_CTR Vancouver Centre:132.900
+AG:CZVR_X_CTR Vancouver Centre:133.800
+AG:CZVR_Y_CTR Vancouver Centre:135.500
+AG:CZVR_Z_CTR Vancouver Centre:133.400
+END

@@ -1,0 +1,98 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:CZVR CLASS_D_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_E_CTACTR_CZ:
+ARTCC high boundary:CZVR CLASS_A_CTACTR_TCA:
+ARTCC high boundary:CZVR SECTORLINE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_C_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TSP-RQ:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TSP-RQ:
+Fixes:DAVED:name
+Fixes:DAVED:symbol
+Fixes:ENTRY:name
+Fixes:ENTRY:symbol
+Fixes:EPTAV:name
+Fixes:EPTAV:symbol
+Fixes:EPTEB:name
+Fixes:EPTEB:symbol
+Fixes:ETMIL:name
+Fixes:ETMIL:symbol
+Fixes:IGTIX:name
+Fixes:IGTIX:symbol
+Fixes:ITNES:name
+Fixes:ITNES:symbol
+Fixes:LEXUK:name
+Fixes:LEXUK:symbol
+Fixes:MEDLI:name
+Fixes:MEDLI:symbol
+Fixes:MUXUD:name
+Fixes:MUXUD:symbol
+Fixes:NOTED:name
+Fixes:NOTED:symbol
+Fixes:OBSAB:name
+Fixes:OBSAB:symbol
+Fixes:RAGOD:name
+Fixes:RAGOD:symbol
+Fixes:RESIN:name
+Fixes:RESIN:symbol
+Fixes:ULIDO:name
+Fixes:ULIDO:symbol
+Fixes:VIXIN:name
+Fixes:VIXIN:symbol
+Fixes:VOLEN:name
+Fixes:VOLEN:symbol
+Geo:CZVR CZVR_AirspaceF_CYA:
+Geo:CZVR CZVR_AirspaceF_CYD:
+Geo:CZVR CZVR_AirspaceF_CYR:
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+NDBs:XT:name
+NDBs:XT:symbol
+NDBs:ZKI:name
+NDBs:ZKI:symbol
+Regions:CZVR CZVR_AirspaceG:polygon
+Runways:CYXT 03-21:centerline
+Runways:CYXT 15-33:centerline
+Runways:CYXT 15-33:extended centerline 2
+Runways:CYXT 15-33:extended centerline 2 left ticks
+Runways:CYXT 15-33:extended centerline 2 left vectoring
+Runways:CYXT 15-33:extended centerline 2 right ticks
+Runways:CYXT 15-33:extended centerline 2 right vectoring
+Runways:CYXT 15-33:name
+Sids:CYXT SID 15 ZKID1:
+Sids:CYXT SID 33 MEDLI1:
+Sids:CYXT SID 33 RESIN2:
+Stars:CYXT ILS33-Z IGTIX:
+Stars:CYXT ILS33-Z LEXUK:
+Stars:CYXT ILS33-Z ZKI:
+Stars:CYXT RNAV15-Y ENTRY:
+Stars:CYXT RNAV15-Y VOLEN:
+Stars:CYXT RNAV15-Z MUXUD:
+Stars:CYXT RNAV15-Z OBSAB:
+Stars:CYXT RNAV15-Z RESIN:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:54.265639:-129.187635:54.670124:-127.985759
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

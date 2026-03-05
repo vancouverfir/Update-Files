@@ -1,0 +1,129 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:CAK3:name
+Airports:CAK3:symbol
+Airports:CYCW:name
+Airports:CYCW:symbol
+ARTCC boundary:CZVR CLASS_C_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_D_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_E_CTACTR_CZ:
+ARTCC low boundary:CYNJ CZ C 1900:
+ARTCC low boundary:CYPK CZ C 2500:
+ARTCC low boundary:CYVR Terminal Floor:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_C_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TSP-RQ:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TSP-RQ:
+Fixes:BANQS:name
+Fixes:BANQS:symbol
+Fixes:CHAIT:name
+Fixes:CHAIT:symbol
+Fixes:GOREG:name
+Fixes:GOREG:symbol
+Fixes:HOLES:name
+Fixes:HOLES:symbol
+Fixes:KLUCK:name
+Fixes:KLUCK:symbol
+Fixes:LEVIR:name
+Fixes:LEVIR:symbol
+Fixes:MIXAX:name
+Fixes:MIXAX:symbol
+Fixes:PETMI:name
+Fixes:PETMI:symbol
+Fixes:SAVED:name
+Fixes:SAVED:symbol
+Fixes:VARSY:name
+Fixes:VARSY:symbol
+Fixes:VCABN:name
+Fixes:VCABN:symbol
+Fixes:VCCLV:name
+Fixes:VCCLV:symbol
+Fixes:VCLNG:name
+Fixes:VCLNG:symbol
+Fixes:VCMML:name
+Fixes:VCMML:symbol
+Fixes:VCPPY:name
+Fixes:VCPPY:symbol
+Fixes:VCTBD:name
+Fixes:VCTBD:symbol
+Fixes:VCTNY:name
+Fixes:VCTNY:symbol
+Fixes:VCXCH:name
+Fixes:VCXCH:symbol
+Fixes:VCXYZ:name
+Fixes:VCXYZ:symbol
+Free Text:CYNJ VFR Checkpoints\216 INTERCHANGE:freetext
+Free Text:CYNJ VFR Checkpoints\232 INTERCHANGE:freetext
+Free Text:CYNJ VFR Checkpoints\264th:freetext
+Free Text:CYNJ VFR Checkpoints\ALBION:freetext
+Free Text:CYNJ VFR Checkpoints\CLOVERDALE:freetext
+Free Text:CYNJ VFR Checkpoints\FORT LANGLEY:freetext
+Free Text:CYNJ VFR Checkpoints\MAN MADE LAKES:freetext
+Free Text:CYNJ VFR Checkpoints\POPPY:freetext
+Free Text:CYNJ VFR Checkpoints\THUNDERBIRD:freetext
+Free Text:CYNJ VFR Checkpoints\TRINITY:freetext
+Geo:CZVR CZVR_AirspaceF_CYA:
+Geo:CZVR CZVR_AirspaceF_CYR:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+NDBs:VR:name
+NDBs:VR:symbol
+NDBs:WC:name
+NDBs:WC:symbol
+NDBs:XX:name
+NDBs:XX:symbol
+Runways:CYNJ 01-19:centerline
+Runways:CYNJ 07-25:centerline
+Runways:CYPK 08L-26R:centerline
+Runways:CYPK 08R-26L:centerline
+Runways:CYPK 18-36:centerline
+Runways:CYVR 08L-26R:centerline
+Runways:CYVR 08L-26R:extended centerline 2
+Runways:CYVR 08L-26R:extended centerline 2 right ticks
+Runways:CYVR 08L-26R:extended centerline 2 right vectoring
+Runways:CYVR 08R-26L:centerline
+Runways:CYVR 08R-26L:extended centerline 2
+Runways:CYVR 08R-26L:extended centerline 2 left ticks
+Runways:CYVR 08R-26L:extended centerline 2 left vectoring
+Runways:CYVR 13-31:centerline
+Runways:CYXX 01-19:centerline
+Runways:CYXX 07-25:centerline
+Runways:CYXX 07-25:extended centerline 1
+Runways:CYXX 07-25:extended centerline 1 right ticks
+Runways:CYXX 07-25:extended centerline 1 right vectoring
+Runways:CZBB 07-25:centerline
+Runways:CZBB 13-31:centerline
+Stars:CYNJ RNAV01:
+Stars:CYNJ RNAV01 CHAIT:
+Stars:CYNJ RNAV01 HOLES:
+Stars:CYNJ RNAV01 HUH:
+VORs:HUH:name
+VORs:HUH:symbol
+VORs:YPK:name
+VORs:YPK:symbol
+VORs:YVR:name
+VORs:YVR:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:48.992483:-122.950540:49.210319:-122.303269
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

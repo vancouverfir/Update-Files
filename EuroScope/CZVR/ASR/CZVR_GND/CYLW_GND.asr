@@ -1,0 +1,73 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYLW Taxiways\A:freetext
+Free Text:CYLW Taxiways\Apron I:freetext
+Free Text:CYLW Taxiways\Apron II:freetext
+Free Text:CYLW Taxiways\Apron III:freetext
+Free Text:CYLW Taxiways\B:freetext
+Free Text:CYLW Taxiways\C:freetext
+Free Text:CYLW Taxiways\Ctrl Twr:freetext
+Free Text:CYLW Taxiways\D:freetext
+Free Text:CYLW Taxiways\D:freetext
+Free Text:CYLW Taxiways\D:freetext
+Free Text:CYLW Taxiways\D:freetext
+Free Text:CYLW Taxiways\Day circuit hgt 2500' ASL:freetext
+Free Text:CYLW Taxiways\Day Rgt hand circuits Rwy 34:freetext
+Free Text:CYLW Taxiways\E:freetext
+Free Text:CYLW Taxiways\F:freetext
+Free Text:CYLW Taxiways\G:freetext
+Free Text:CYLW Taxiways\HELI TRAINING AREA:freetext
+Free Text:CYLW Taxiways\HELI TRAINING AREA:freetext
+Free Text:CYLW Taxiways\Helipad:freetext
+Free Text:CYLW Taxiways\Night circuit hgt 3000' ASL:freetext
+Free Text:CYLW Taxiways\Night Rgt hand circuits Rwy 16:freetext
+Free Text:CYLW Taxiways\Shell FBO:freetext
+Free Text:CYLW Taxiways\T-Hangars:freetext
+Free Text:CYLW Taxiways\Terminal:freetext
+Geo:CYLW Groundlayout:
+Regions:CYLW Ground Files:polygon
+Runways:CYLW 16-34:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:49.943832:-119.429945:49.973925:-119.340527
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYLW
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

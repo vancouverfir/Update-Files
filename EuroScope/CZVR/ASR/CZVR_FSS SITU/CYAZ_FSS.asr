@@ -1,0 +1,95 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:CZVR CLASS_E_CTACTR_CZ:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TA:
+Fixes:ADVOV:name
+Fixes:ADVOV:symbol
+Fixes:AVUMU:name
+Fixes:AVUMU:symbol
+Fixes:NAGLI:name
+Fixes:NAGLI:symbol
+Fixes:OMINI:name
+Fixes:OMINI:symbol
+Fixes:OVDAD:name
+Fixes:OVDAD:symbol
+Fixes:ROLBU:name
+Fixes:ROLBU:symbol
+Fixes:SEGEX:name
+Fixes:SEGEX:symbol
+Fixes:SIGTA:name
+Fixes:SIGTA:symbol
+Fixes:TETEP:name
+Fixes:TETEP:symbol
+Fixes:TEXEC:name
+Fixes:TEXEC:symbol
+Fixes:THANY:name
+Fixes:THANY:symbol
+Fixes:UDBIB:name
+Fixes:UDBIB:symbol
+Fixes:VCFLO:name
+Fixes:VCFLO:symbol
+Fixes:VCGRB:name
+Fixes:VCGRB:symbol
+Fixes:VCIIS:name
+Fixes:VCIIS:symbol
+Fixes:VCKLK:name
+Fixes:VCKLK:symbol
+Fixes:VCLIL:name
+Fixes:VCLIL:symbol
+Fixes:VCOZZ:name
+Fixes:VCOZZ:symbol
+Fixes:VCRDR:name
+Fixes:VCRDR:symbol
+Fixes:VCSEA:name
+Fixes:VCSEA:symbol
+Fixes:VCVRG:name
+Fixes:VCVRG:symbol
+Free Text:CYAZ VFR Checkpoints\FLORENCIA BAY:freetext
+Free Text:CYAZ VFR Checkpoints\GRICE BAY:freetext
+Free Text:CYAZ VFR Checkpoints\INDIAN ISLAND:freetext
+Free Text:CYAZ VFR Checkpoints\KENNEDY LAKE:freetext
+Free Text:CYAZ VFR Checkpoints\LENNARD ISLAND LIGHTHOUSE:freetext
+Free Text:CYAZ VFR Checkpoints\MOUNT OZZARD:freetext
+Free Text:CYAZ VFR Checkpoints\RADAR HILL:freetext
+Free Text:CYAZ VFR Checkpoints\SEA LION ROCKS:freetext
+Free Text:CYAZ VFR Checkpoints\VARGAS ISLAND:freetext
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+Low airways:G1:line
+Low airways:G1:name
+Low airways:T609:line
+Low airways:T609:name
+Low airways:V300:line
+Low airways:V300:name
+Low airways:V304:line
+Low airways:V304:name
+NDBs:YAZ:name
+NDBs:YAZ:symbol
+Regions:CZVR CZVR_AirspaceG:polygon
+Runways:CYAZ 07-25:centerline
+Runways:CYAZ 11-29:centerline
+Runways:CYAZ 11-29:name
+Runways:CYAZ 16-34:centerline
+Stars:CYAZ RNAV11 TEXEC:
+Stars:CYAZ RNAV29 SEGEX:
+Stars:CYAZ RNAV29 TETEP:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:48.876687:-126.376630:49.281174:-125.174752
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

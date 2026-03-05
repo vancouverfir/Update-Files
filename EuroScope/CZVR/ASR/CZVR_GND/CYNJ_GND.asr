@@ -1,0 +1,71 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYNJ Taxiways\A:freetext
+Free Text:CYNJ Taxiways\A:freetext
+Free Text:CYNJ Taxiways\B:freetext
+Free Text:CYNJ Taxiways\B:freetext
+Free Text:CYNJ Taxiways\C:freetext
+Free Text:CYNJ Taxiways\C:freetext
+Free Text:CYNJ Taxiways\D:freetext
+Free Text:CYNJ Taxiways\E:freetext
+Free Text:CYNJ Taxiways\F:freetext
+Free Text:CYNJ Taxiways\G:freetext
+Free Text:CYNJ Taxiways\G:freetext
+Free Text:CYNJ Taxiways\G:freetext
+Free Text:CYNJ Taxiways\G:freetext
+Free Text:CYNJ Taxiways\H:freetext
+Free Text:CYNJ Taxiways\I:freetext
+Free Text:CYNJ Taxiways\II:freetext
+Free Text:CYNJ Taxiways\III:freetext
+Free Text:CYNJ Taxiways\J:freetext
+Free Text:CYNJ Taxiways\K:freetext
+Free Text:CYNJ Taxiways\Rgt hand circuits RWY 25.:freetext
+Free Text:CYNJ Taxiways\TWR:freetext
+Geo:CYNJ Groundlayout:
+Regions:CYNJ Ground Files:polygon
+Runways:CYNJ 01-19:name
+Runways:CYNJ 07-25:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:49.096679:-122.645814:49.106260:-122.617346
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYNJ
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

@@ -1,0 +1,81 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYPK Taxiways\1:freetext
+Free Text:CYPK Taxiways\2:freetext
+Free Text:CYPK Taxiways\3:freetext
+Free Text:CYPK Taxiways\A:freetext
+Free Text:CYPK Taxiways\A:freetext
+Free Text:CYPK Taxiways\Apr I:freetext
+Free Text:CYPK Taxiways\Apr II:freetext
+Free Text:CYPK Taxiways\Apr III:freetext
+Free Text:CYPK Taxiways\Apr IV:freetext
+Free Text:CYPK Taxiways\Apr V:freetext
+Free Text:CYPK Taxiways\B:freetext
+Free Text:CYPK Taxiways\C:freetext
+Free Text:CYPK Taxiways\D:freetext
+Free Text:CYPK Taxiways\D:freetext
+Free Text:CYPK Taxiways\D:freetext
+Free Text:CYPK Taxiways\E:freetext
+Free Text:CYPK Taxiways\F:freetext
+Free Text:CYPK Taxiways\F:freetext
+Free Text:CYPK Taxiways\F:freetext
+Free Text:CYPK Taxiways\G:freetext
+Free Text:CYPK Taxiways\Helipads:freetext
+Free Text:CYPK Taxiways\HTA-1:freetext
+Free Text:CYPK Taxiways\HTA-2:freetext
+Free Text:CYPK Taxiways\HTA-3:freetext
+Free Text:CYPK Taxiways\Rgt hand circuits Rwys 08R, 18 & 26R:freetext
+Free Text:CYPK Taxiways\Twr:freetext
+Geo:CYPK Groundlayout:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+Regions:CYPK Ground Files:polygon
+Runways:CYPK 08L-26R:name
+Runways:CYPK 08R-26L:name
+Runways:CYPK 18-36:name
+VORs:YPK:name
+VORs:YPK:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:49.208419:-122.732330:49.223390:-122.687846
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYPK
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

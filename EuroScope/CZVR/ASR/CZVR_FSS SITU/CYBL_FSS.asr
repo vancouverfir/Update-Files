@@ -1,0 +1,115 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:CYPW:name
+Airports:CYPW:symbol
+ARTCC boundary:CZVR CLASS_C_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_D_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_E_CTACTR_CZ:
+ARTCC low boundary:CYBL CZ E 3300:
+ARTCC low boundary:CYQQ CZ D 6000:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TSP-RQ:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TSP-RQ:
+Fixes:AGDAT:name
+Fixes:AGDAT:symbol
+Fixes:AGLAT:name
+Fixes:AGLAT:symbol
+Fixes:AMOBA:name
+Fixes:AMOBA:symbol
+Fixes:DEKSO:name
+Fixes:DEKSO:symbol
+Fixes:EBDUV:name
+Fixes:EBDUV:symbol
+Fixes:KELSY:name
+Fixes:KELSY:symbol
+Fixes:KESRO:name
+Fixes:KESRO:symbol
+Fixes:OMREV:name
+Fixes:OMREV:symbol
+Fixes:PIKVI:name
+Fixes:PIKVI:symbol
+Fixes:RESIP:name
+Fixes:RESIP:symbol
+Fixes:VCCNS:name
+Fixes:VCCNS:symbol
+Fixes:VCMCI:name
+Fixes:VCMCI:symbol
+Fixes:VCMLN:name
+Fixes:VCMLN:symbol
+Fixes:VCMUD:name
+Fixes:VCMUD:symbol
+Fixes:VCOYS:name
+Fixes:VCOYS:symbol
+Fixes:VCSMR:name
+Fixes:VCSMR:symbol
+Fixes:VCTYE:name
+Fixes:VCTYE:symbol
+Fixes:XUGTA:name
+Fixes:XUGTA:symbol
+Free Text:CYBL VFR Checkpoints\CAPE MUDGE:freetext
+Free Text:CYBL VFR Checkpoints\CONSTITUTION:freetext
+Free Text:CYBL VFR Checkpoints\MCIVOR LAKE:freetext
+Free Text:CYBL VFR Checkpoints\MITLENATCH:freetext
+Free Text:CYBL VFR Checkpoints\OYSTER RIVER:freetext
+Free Text:CYBL VFR Checkpoints\SEYMOUR NARROWS:freetext
+Free Text:CYBL VFR Checkpoints\TYEE SPIT:freetext
+Free Text:CYQQ VFR Checkpoints\BLUBBER BAY:freetext
+Free Text:CYQQ VFR Checkpoints\BOWSER:freetext
+Free Text:CYQQ VFR Checkpoints\CAPE LAZO:freetext
+Free Text:CYQQ VFR Checkpoints\CONSTITUTION:freetext
+Free Text:CYQQ VFR Checkpoints\GILLIES BAY:freetext
+Free Text:CYQQ VFR Checkpoints\GOOSE:freetext
+Free Text:CYQQ VFR Checkpoints\LITTLE RIVER:freetext
+Free Text:CYQQ VFR Checkpoints\MITLENATCH:freetext
+Free Text:CYQQ VFR Checkpoints\OYSTER RIVER:freetext
+Free Text:CYQQ VFR Checkpoints\ROYSTON:freetext
+Geo:CZVR CZVR_AirspaceF_CYA:
+Geo:CZVR CZVR_AirspaceF_CYD:
+Geo:CZVR CZVR_AirspaceF_CYR:
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+NDBs:YBL:name
+NDBs:YBL:symbol
+Regions:CZVR CZVR_AirspaceG:polygon
+Runways:CYBL 12-30:centerline
+Runways:CYBL 12-30:extended centerline 1
+Runways:CYBL 12-30:extended centerline 1 left ticks
+Runways:CYBL 12-30:extended centerline 1 left vectoring
+Runways:CYBL 12-30:extended centerline 1 right ticks
+Runways:CYBL 12-30:extended centerline 1 right vectoring
+Runways:CYBL 12-30:name
+Runways:CYQQ 12-30:centerline
+Runways:CYQQ 18-36:centerline
+Sids:CYBL SID 12 KELSY1:
+Sids:CYBL SID 12 OYSTR1:
+Sids:CYBL SID 30 KELSY1:
+Sids:CYBL SID 30 OYSTR1:
+Stars:CYBL ILS12-Y KELSY:
+Stars:CYBL ILS12-Y KESRO:
+Stars:CYBL RNAV30 RESIP:
+Stars:CYBL RNAV30 UQQ:
+VORs:UQQ:name
+VORs:UQQ:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:49.790030:-125.754481:50.113619:-124.792978
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

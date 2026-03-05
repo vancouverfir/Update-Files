@@ -1,0 +1,73 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:CZVR CLASS_D_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_E_CTACTR_CZ:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_C_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TSP-RQ:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TSP-RQ:
+Fixes:ADVAL:name
+Fixes:ADVAL:symbol
+Fixes:BOLTU:name
+Fixes:BOLTU:symbol
+Fixes:DASGA:name
+Fixes:DASGA:symbol
+Fixes:DULPO:name
+Fixes:DULPO:symbol
+Fixes:ELVUG:name
+Fixes:ELVUG:symbol
+Fixes:IKDEP:name
+Fixes:IKDEP:symbol
+Fixes:ITGAB:name
+Fixes:ITGAB:symbol
+Fixes:KAVUG:name
+Fixes:KAVUG:symbol
+Fixes:LETOD:name
+Fixes:LETOD:symbol
+Fixes:MERSO:name
+Fixes:MERSO:symbol
+Fixes:ONDOX:name
+Fixes:ONDOX:symbol
+Fixes:PIKLU:name
+Fixes:PIKLU:symbol
+Fixes:UKTAN:name
+Fixes:UKTAN:symbol
+Geo:CZVR CZVR_AirspaceF_CYA:
+Geo:CZVR CZVR_AirspaceF_CYD:
+Geo:CZVR CZVR_AirspaceF_CYR:
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+Regions:CZVR CZVR_AirspaceG:polygon
+Runways:CYQZ 13-31:centerline
+Runways:CYQZ 13-31:name
+Stars:CYQZ RNAV13-Y DASGA:
+Stars:CYQZ RNAV13-Y KAVUG:
+Stars:CYQZ RNAV13-Y ONDOX:
+Stars:CYQZ RNAV31-Y ADVAL:
+Stars:CYQZ RNAV31-Y MERSO:
+Stars:CYQZ RNAV31-Y PIKLU:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:52.825312:-123.112710:53.229798:-121.910832
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

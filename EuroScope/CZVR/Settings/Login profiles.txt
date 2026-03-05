@@ -1,0 +1,318 @@
+PROFILE
+PROFILE:CYVR_GND:20:3
+ATIS2:Vancouver Ground Control "VANCOUVER GROUND"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:PDC available upon request
+PROFILE:CYVR_1_GND:20:3
+ATIS2:Vancouver Ground Control "VANCOUVER GROUND"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:PDC available upon request
+PROFILE:CYVR_APP:150:5
+ATIS2:Vancouver Terminal Control Unit "VANCOUVER ARRIVAL/DEPARTURE/TERMINAL"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers CYVR, CYYJ, CYXX, CYCD, KBLI, and other South Coast airports
+PROFILE:CYVR_X_APP:150:5
+ATIS2:Vancouver Approach Monitor "VANCOUVER ARRIVAL"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Simultaneous independent parallel IFR approach monitor. Obey all breakout instructions immediately
+PROFILE:CYVR_1_APP:150:5
+ATIS2:Vancouver Terminal Control Unit "VANCOUVER ARRIVAL/DEPARTURE/TERMINAL"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers CYVR, CYYJ, CYXX, CYCD, KBLI, and other South Coast airports
+PROFILE:CYVR_L_APP:100:5
+ATIS2:Vancouver Terminal Control Unit (Inner) "VANCOUVER ARRIVAL/DEPARTURE/TERMINAL"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers CYVR, CYYJ, CYXX, CYCD, KBLI, and other South Coast airports
+PROFILE:CYVR_T_APP:150:5
+ATIS2:Vancouver Terminal Control Unit "VANCOUVER TERMINAL"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers CYVR, CYYJ, CYXX, CYCD, KBLI, and other South Coast airports
+PROFILE:CYVR_DEP:150:5
+ATIS2:Vancouver Departure Control  "VANCOUVER DEPARTURE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers CYVR, CYYJ, CYXX, CYCD, KBLI, and other South Coast airports
+PROFILE:CYVR_1_DEP:150:5
+ATIS2:Vancouver Departure Control  "VANCOUVER DEPARTURE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers CYVR, CYYJ, CYXX, CYCD, KBLI, and other South Coast airports
+PROFILE:CYVR_N_DEP:150:5
+ATIS2:Vancouver Departure Control  "VANCOUVER DEPARTURE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers CYVR and other PNW airports
+PROFILE:CYVR_DEL:10:2
+ATIS2:Vancouver Clearance "VANCOUVER CLEARANCE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:PDC available upon request
+PROFILE:CYVR_1_DEL:10:2
+ATIS2:Vancouver Clearance Delivery "VANCOUVER DELIVERY"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:PDC available upon request
+PROFILE:CYVR_A_GND:10:2
+ATIS2:Vancouver Apron Control "VANCOUVER APRON"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Contact for advisory
+PROFILE:CYVR_TWR:50:4
+ATIS2:Vancouver Control Tower "VANCOUVER TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C on all movement areas and in tower C, D airspace
+PROFILE:CYVR_1_TWR:50:4
+ATIS2:Vancouver Control Tower "VANCOUVER TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C on all movement areas and in tower C, D airspace
+PROFILE:CYVR_N_TWR:50:4
+ATIS2:Vancouver North Control Tower "VANCOUVER TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C on all movement areas and in tower C, D airspace
+PROFILE:CYVR_O_TWR:50:4
+ATIS2:Vancouver Outer Control Tower "VANCOUVER TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C on all movement areas and in tower C, D airspace
+PROFILE:CYVR_N_GND:20:3
+ATIS2:Vancouver North Ground Control "VANCOUVER GROUND"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C on all movement areas and in tower C, D airspace
+PROFILE:CYVR_P_GND:20:3
+ATIS2:Vancouver Pad Control "PAD CONTROL"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C on all movement areas and in tower C, D airspace
+PROFILE:CYQQ_APP:150:5
+ATIS2:Comox Military Terminal Control Unit "COMOX ARRIVAL/DEPARTURE/TERMINAL"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Flight plan required to enter CYQQ control zone
+PROFILE:CYQQ_DEP:150:5
+ATIS2:Comox Departure Control "COMOX DEPARTURE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Flight plan required to enter CYQQ control zone
+PROFILE:CYQQ_GND:20:3
+ATIS2:Comox Ground Control "COMOX GROUND"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Flight plan required to enter CYQQ control zone
+PROFILE:CYQQ_TWR:50:4
+ATIS2:Comox Control Tower "COMOX TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Flight plan required to enter CYQQ control zone
+PROFILE:CYYJ_APP:100:5
+ATIS2:Victoria Terminal Control Unit "VICTORIA ARRIVAL/DEPARTURE/TERMAINL"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers CYYJ, CYXX, CYCD, KBLI, and other South Coast airports
+PROFILE:CYYJ_1_APP:100:5
+ATIS2:Victoria Terminal Control Unit "VICTORIA ARRIVAL/DEPARTURE/TERMAINL"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers CYYJ, CYXX, CYCD, KBLI, and other South Coast airports
+PROFILE:CYYJ_DEP:100:5
+ATIS2:Victoria Departure Control "VICTORIA DEPARTURE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers CYYJ, CYXX, CYCD, KBLI, and other South Coast airports
+PROFILE:CYYJ_1_DEP:100:5
+ATIS2:Victoria Departure Control "VICTORIA DEPARTURE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers CYYJ, CYXX, CYCD, KBLI, and other South Coast airports
+PROFILE:CYYJ_TWR:50:4
+ATIS2:Victoria Control Tower "VICTORIA TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CYYJ_1_TWR:50:4
+ATIS2:Victoria Control Tower "VICTORIA TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CYYJ_O_TWR:50:4
+ATIS2:Victoria Outer Control Tower "VICTORIA TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CYYJ_GND:20:3
+ATIS2:Victoria Ground Control "VICTORIA GROUND"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CYYJ_1_GND:20:3
+ATIS2:Victoria Ground Control "VICTORIA GROUND"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CYYJ_DEL:10:2
+ATIS2:Victoria Clearance "VICTORIA CLEARANCE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:PDC available upon request
+PROFILE:CYYJ_1_DEL:10:2
+ATIS2:Victoria Clearance "VICTORIA CLEARANCE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:PDC available upon request
+PROFILE:CYXX_TWR:50:4
+ATIS2:Abbotsford Control Tower "ABBOTSFORD TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CYXX_GND:20:3
+ATIS2:Abbotsford Ground Control "ABBOTSFORD GROUND"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CYPK_TWR:50:4
+ATIS2:Pitt Meadows Control Tower "PITT TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CYPK_GND:20:3
+ATIS2:Pitt Meadows Ground Control "PITT GROUND"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CYNJ_TWR:50:4
+ATIS2:Langley Control Tower "LANGLEY TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CYNJ_GND:20:3
+ATIS2:Langley Ground Control "LANGLEY GROUND"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CZBB_TWR:50:4
+ATIS2:Boundary Bay Control Tower "BOUNDARY BAY TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CZBB_O_TWR:50:4
+ATIS2:Boundary Bay Outer Control Tower "BOUNDARY BAY TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CZBB_GND:20:3
+ATIS2:Boundary Bay Ground Control "BOUNDARY BAY GROUND"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CYLW_APP:100:5
+ATIS2:Vancouver ACC Kelowna Sector "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers CYLW, CYYF, CYVK, CZAM, CYDC & other Okanagan airports
+PROFILE:CYLW_1_APP:100:5
+ATIS2:Vancouver ACC Kelowna Sector "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers CYLW, CYYF, CYVK, CZAM, CYDC & other Okanagan airports
+PROFILE:CYLW_TWR:50:4
+ATIS2:Kelowna Control Tower "KELOWNA TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower D airspace
+PROFILE:CYLW_GND:20:3
+ATIS2:Kelowna Ground Control "KELOWNA GROUND"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower D airspace
+PROFILE:CYXS_TWR:50:4
+ATIS2:Prince George Control Tower "PRINCE GEORGE TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower D airspace
+PROFILE:CYXS_GND:20:3
+ATIS2:Prince George Ground Control "PRINCE GEORGE GROUND"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower D airspace
+PROFILE:CYHC_TWR:50:4
+ATIS2:Harbour Control Tower "HARBOUR TOWER"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+PROFILE:CYZT_F_TWR:50:4
+ATIS2:Port Hardy Flight Service Station "HARDY RADIO"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Provides RAAS for CYAZ, Allow for up to one minute on initial contact
+PROFILE:CYCD_F_TWR:50:4
+ATIS2:Nanaimo Flight Service Station "NANAIMO RADIO"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Allow for up to one minute on initial contact
+PROFILE:CYCD_F_GND:20:3
+ATIS2:Nanaimo Ground Advisory "NANAIMO GROUND ADVISORY"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Allow for up to one minute on initial contact
+PROFILE:CYCG_F_TWR:50:4
+ATIS2:Castlegar Flight Service Station "CASTLEGAR RADIO"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Allow for up to one minute on initial contact
+PROFILE:CYBL_F_TWR:50:4
+ATIS2:Campbell River Flight Service Station "CAMPBELL RADIO"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Allow for up to one minute on initial contact
+PROFILE:CYKA_F_TWR:50:4
+ATIS2:Kamloops Flight Service Station "HARDY RADIO"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Allow for up to one minute on initial contact
+PROFILE:CYKA_DEL:10:2
+ATIS2:Kamloops Clearance "KAMLOOPS CLEARANCE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Allow for up to one minute on initial contact
+PROFILE:CYWL_F_TWR:50:4
+ATIS2:Williams Lake Flight Service Station "WILLIAMS LAKE RADIO"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Provides RAAS for CYQZ, Allow for up to one minute on initial contact
+PROFILE:CYXC_F_TWR:50:4
+ATIS2:Cranbrook Flight Service Station "CRANBROOK RADIO"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Allow for up to one minute on initial contact
+PROFILE:CYXT_F_TWR:50:4
+ATIS2:Terrace Flight Service Station "TERRACE RADIO"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Provides RAAS for CYZP, Allow for up to one minute on initial contact
+PROFILE:CYYD_F_TWR:50:4
+ATIS2:Smithers Flight Service Station "SMITHERS RADIO"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Allow for up to one minute on initial contact
+PROFILE:CYYF_F_TWR:50:4
+ATIS2:Penticton Flight Service Station "PENTICTON RADIO"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Allow for up to one minute on initial contact
+PROFILE:CYYF_F_GND:50:4
+ATIS2:Penticton Ground Advisory "PENTICTON GROUND ADVISORY"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Allow for up to one minute on initial contact
+PROFILE:CYWH_F_TWR:50:4
+ATIS2:Victoria Harbour Flight Service Station "HARBOUR RADIO"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Allow for up to one minute on initial contact
+PROFILE:CZVR_CTR:300:6
+ATIS2:Vancouver Area Control Centre "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers the Vancouver FIR
+PROFILE:CZVR_1_CTR:300:6
+ATIS2:Vancouver Area Control Centre "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers the Vancouver FIR
+PROFILE:CZVR_A_CTR:300:6
+ATIS2:Vancouver ACC Kamloops Sector "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers the Vancouver FIR
+PROFILE:CZVR_N_CTR:300:6
+ATIS2:Vancouver ACC North Sector "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers the Vancouver FIR
+PROFILE:CZVR_S_CTR:300:6
+ATIS2:Vancouver ACC South Sector "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers the Vancouver FIR
+PROFILE:CZVR_E_CTR:300:6
+ATIS2:Vancouver ACC East Sector "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers the Vancouver FIR
+PROFILE:CZVR_W_CTR:300:6
+ATIS2:Vancouver ACC West Sector "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers the Vancouver FIR
+PROFILE:CZVR_X_CTR:300:6
+ATIS2:Vancouver ACC Prince George Sector "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers the Vancouver FIR
+PROFILE:CZVR_H_CTR:300:6
+ATIS2:Vancouver ACC Haida Sector "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers the Vancouver FIR
+PROFILE:CZVR_Z_CTR:300:6
+ATIS2:Vancouver ACC Sandspit Sector "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers the Vancouver FIR
+PROFILE:CZVR_K_CTR:300:6
+ATIS2:Vancouver ACC Nootka Sector "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers the Vancouver FIR
+PROFILE:CZVR_Y_CTR:300:6
+ATIS2:Vancouver ACC Enderby Sector "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers the Vancouver FIR
+PROFILE:CZVR_C_CTR:300:6
+ATIS2:Vancouver ACC Cranbrook Sector "VANCOUVER CENTRE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Unit covers the Vancouver FIR
+PROFILE:CZVR_F_CTR:300:6
+ATIS2:Kamloops Flight Information Centre "PACIFIC RADIO"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:VFR flight planning and enroute advisories
+PROFILE:CYHC_DEL:10:2
+ATIS2:Vancouver Harbour Clearance "HARBOUR CLEARANCE"
+ATIS3:Charts at www.fltplan.com | Info and feedback on the website czvr.ca
+ATIS4:Transponder Mode C in tower C airspace
+END

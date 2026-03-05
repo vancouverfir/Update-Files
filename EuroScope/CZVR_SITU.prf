@@ -1,0 +1,82 @@
+Settings	sector	\CZVR.sct
+Settings	Settingsfile	\CZVR\Settings\General settings.txt
+Settings	SettingsfileSCREEN	\CZVR\Settings\Screen layout.txt
+Settings	SettingsfileSYMBOLOGY	\CZVR\Settings\SITU Symbology.txt
+Settings	SettingsfileVOICE	\CZVR\Settings\Ground to air voice channels.txt
+Settings	SettingsfilePROFILE	\CZVR\Settings\Login profiles.txt
+Settings	SettingsfileTAGS	\CZVR\Settings\TAG definitions.txt
+Settings	SettingsfileSIL	\CZVR\Settings\Sector inbound list configuration.txt
+Settings	SettingsfileSEL	\CZVR\Settings\Sector exit list configuration.txt
+Settings	SettingsfileDEP	\CZVR\Settings\Departure list configuration.txt
+Settings	SettingsfilePLUGINS	\CZVR\Settings\Plug-in settings.txt
+Settings	SettingsfileARR	\CZVR\Settings\Arrival list configuration.txt
+Settings	SettingsfileFP	\CZVR\Settings\Flight Plan list configuration.txt
+Settings	SettingsfileSCREEN	\CZVR\Settings\Screen.txt
+Settings	AtisFolder	\CZVR\ATIS\ATIS_Canada.txt
+Settings	alias	\CZVR\Alias\alias.txt
+Settings	airways	\CZVR\NavData\airway.txt
+Settings	airlines	\CZVR\ICAO\ICAO_Airlines.txt
+Settings	airports	\CZVR\ICAO\ICAO_Airports.txt
+Settings	aircraft	\CZVR\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\CZVR\NavData\icao.txt
+Settings	SettingsfileVCCS	\CZVR\Settings\VCCS configuration.txt
+Settings	ipaddr	\CZVR\ipaddr.txt
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Plugins	Plugin0	\CZVR\Plugins\CANscope.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	\CZVR\Plugins\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+Plugins	Plugin2	\CZVR\Plugins\RDFPlugin.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin3	\CZVR\Plugins\AfvEuroScopeBridge.dll
+Plugins	Plugin3Display0	Standard ES radar screen
+Plugins	Plugin2Display1	SMR radar display
+Plugins	Plugin3Display1	SMR radar display
+Plugins	Plugin4	\CZVR\Plugins\PDC_Identifier_V2.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin4Display1	SMR radar display
+Plugins	Plugin5	\CZVR\Plugins\CZVRScope.dll
+Plugins	Plugin5Display0	Standard ES radar screen
+Plugins	Plugin5Display1	SMR radar display
+Plugins	Plugin6	\CZVR\Plugins\VATCANSitu.dll
+Plugins	Plugin6Display1	SMR radar display
+Plugins	Plugin6Display0	Standard ES radar screen
+Sounds	Sound0	\CZVR\Sounds\handoff_request.wav
+Sounds	Sound1	\CZVR\Sounds\handoff_accept.wav
+Sounds	Sound2	\CZVR\Sounds\conflict_alert.wav
+Sounds	Sound3	\CZVR\Sounds\radio_message.wav
+Sounds	Sound4	\CZVR\Sounds\private_message.wav
+Sounds	Sound5	\CZVR\Sounds\atc_message.wav
+Sounds	Sound6	\CZVR\Sounds\broadcast_message.wav
+Sounds	Sound7	\CZVR\Sounds\landline_request.wav
+Sounds	Sound8	\CZVR\Sounds\supervisor_message.wav
+Sounds	Sound9	\CZVR\Sounds\connected.wav
+Sounds	Sound10	\CZVR\Sounds\disconnected.wav
+Sounds	Sound11	\CZVR\Sounds\ongoing_request.wav
+Sounds	Sound12	\CZVR\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\CZVR\Sounds\ongoing_refused.wav
+Sounds	Sound14	\CZVR\Sounds\ongoing_manual.wav
+Sounds	Sound15	\CZVR\Sounds\new_atis.wav
+Sounds	Sound16	\CZVR\Sounds\handoff_refused.wav
+Sounds	Sound17	\CZVR\Sounds\pointout.wav
+Sounds	Sound18	\CZVR\Sounds\startup.wav
+LastSession	connecttype	0
+LastSession	callsign	CZVR_OBS
+LastSession	facility	0
+LastSession	rating	0
+LastSession	server	AUTOMATIC
+LastSession	tovatsim	1
+LastSession	atis2	Observer
+LastSession	atis3	Charts at www.fltplan.com
+LastSession	atis4	Info and feedback on the Website czvr.ca
+LastSession	range	300
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+TeamSpeakVccs	TsVccsMiniControlX	818
+TeamSpeakVccs	TsVccsMiniControlY	95
+TeamSpeakVccs	Ts3DialogLeft	1035
+TeamSpeakVccs	Ts3DialogTop	520
+TeamSpeakVccs	Ts3DialogRight	1920
+TeamSpeakVccs	Ts3DialogBottom	1076
+RecentFiles

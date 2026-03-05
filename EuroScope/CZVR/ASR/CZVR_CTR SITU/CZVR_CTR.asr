@@ -1,0 +1,207 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:CBBC:name
+Airports:CBBC:symbol
+Airports:CYBD:name
+Airports:CYBD:symbol
+Airports:CYCG:name
+Airports:CYCG:symbol
+Airports:CYPR:name
+Airports:CYPR:symbol
+Airports:CYQU:name
+Airports:CYQU:symbol
+Airports:CYQZ:name
+Airports:CYQZ:symbol
+Airports:CYWL:name
+Airports:CYWL:symbol
+Airports:CYXC:name
+Airports:CYXC:symbol
+Airports:CYXJ:name
+Airports:CYXJ:symbol
+Airports:CYXS:name
+Airports:CYXS:symbol
+Airports:CYXT:name
+Airports:CYXT:symbol
+Airports:CYYD:name
+Airports:CYYD:symbol
+Airports:CYYF:name
+Airports:CYYF:symbol
+Airports:CZMT:name
+Airports:CZMT:symbol
+ARTCC boundary:CZVR CLASS_C_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_D_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_E_CTACTR_CZ:
+ARTCC high boundary:CZVR CLASS_A_CTACTR_TCA:
+ARTCC high boundary:CZVR SECTORLINE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_C_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TSP-RQ:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TSP-RQ:
+Fixes:BINVO:name
+Fixes:BINVO:symbol
+Fixes:BOOTH:name
+Fixes:BOOTH:symbol
+Fixes:DOLFF:name
+Fixes:DOLFF:symbol
+Fixes:DUGGS:name
+Fixes:DUGGS:symbol
+Fixes:DUXAR:name
+Fixes:DUXAR:symbol
+Fixes:ELKIE:name
+Fixes:ELKIE:symbol
+Fixes:FOCHE:name
+Fixes:FOCHE:symbol
+Fixes:FRIED:name
+Fixes:FRIED:symbol
+Fixes:GUPEY:name
+Fixes:GUPEY:symbol
+Fixes:HOWSE:name
+Fixes:HOWSE:symbol
+Fixes:JANEK:name
+Fixes:JANEK:symbol
+Fixes:KATCH:name
+Fixes:KATCH:symbol
+Fixes:KEINN:name
+Fixes:KEINN:symbol
+Fixes:KEPKO:name
+Fixes:KEPKO:symbol
+Fixes:KURTT:name
+Fixes:KURTT:symbol
+Fixes:LEXUK:name
+Fixes:LEXUK:symbol
+Fixes:LINGO:name
+Fixes:LINGO:symbol
+Fixes:MANJO:name
+Fixes:MANJO:symbol
+Fixes:MARNR:name
+Fixes:MARNR:symbol
+Fixes:MENBO:name
+Fixes:MENBO:symbol
+Fixes:MERYT:name
+Fixes:MERYT:symbol
+Fixes:METOW:name
+Fixes:METOW:symbol
+Fixes:METPA:name
+Fixes:METPA:symbol
+Fixes:MOCHA:name
+Fixes:MOCHA:symbol
+Fixes:NADPI:name
+Fixes:NADPI:symbol
+Fixes:NAKBI:name
+Fixes:NAKBI:symbol
+Fixes:NOVAR:name
+Fixes:NOVAR:symbol
+Fixes:NUDGE:name
+Fixes:NUDGE:symbol
+Fixes:ORNAI:name
+Fixes:ORNAI:symbol
+Fixes:PANGL:name
+Fixes:PANGL:symbol
+Fixes:PARQE:name
+Fixes:PARQE:symbol
+Fixes:PEKAA:name
+Fixes:PEKAA:symbol
+Fixes:PETPA:name
+Fixes:PETPA:symbol
+Fixes:POWOL:name
+Fixes:POWOL:symbol
+Fixes:PRETY:name
+Fixes:PRETY:symbol
+Fixes:PRYCE:name
+Fixes:PRYCE:symbol
+Fixes:RAGIT:name
+Fixes:RAGIT:symbol
+Fixes:RIBIT:name
+Fixes:RIBIT:symbol
+Fixes:ROFFO:name
+Fixes:ROFFO:symbol
+Fixes:ROMRA:name
+Fixes:ROMRA:symbol
+Fixes:RORTU:name
+Fixes:RORTU:symbol
+Fixes:ROUKE:name
+Fixes:ROUKE:symbol
+Fixes:SIGPA:name
+Fixes:SIGPA:symbol
+Fixes:SIMLU:name
+Fixes:SIMLU:symbol
+Fixes:SKANI:name
+Fixes:SKANI:symbol
+Fixes:SPONJ:name
+Fixes:SPONJ:symbol
+Fixes:TAMRU:name
+Fixes:TAMRU:symbol
+Fixes:TRENA:name
+Fixes:TRENA:symbol
+Fixes:VIDKU:name
+Fixes:VIDKU:symbol
+Geo:CZVR CZVR_AirspaceF_CYA:
+Geo:CZVR CZVR_AirspaceF_CYD:
+Geo:CZVR CZVR_AirspaceF_CYR:
+Geo:GEO:
+NDBs:YAZ:name
+NDBs:YAZ:symbol
+NDBs:YKA:name
+NDBs:YKA:symbol
+Regions:CZVR CZVR_AirspaceG:polygon
+VORs:ANN:name
+VORs:ANN:symbol
+VORs:CVV:name
+VORs:CVV:symbol
+VORs:GEG:name
+VORs:GEG:symbol
+VORs:HUH:symbol
+VORs:PAE:name
+VORs:PAE:symbol
+VORs:SEA:name
+VORs:SEA:symbol
+VORs:TCM:symbol
+VORs:TOU:name
+VORs:TOU:symbol
+VORs:YDC:name
+VORs:YDC:symbol
+VORs:YEG:name
+VORs:YEG:symbol
+VORs:YNY:symbol
+VORs:YPK:symbol
+VORs:YQU:symbol
+VORs:YRM:symbol
+VORs:YVR:symbol
+VORs:YWL:symbol
+VORs:YXC:name
+VORs:YXC:symbol
+VORs:YXS:symbol
+VORs:YYC:name
+VORs:YYC:symbol
+VORs:YYD:name
+VORs:YYD:symbol
+VORs:YYJ:symbol
+VORs:YZP:name
+VORs:YZP:symbol
+VORs:YZT:name
+VORs:YZT:symbol
+VORs:YZU:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:47.766377:-139.847531:56.702533:-112.520030
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

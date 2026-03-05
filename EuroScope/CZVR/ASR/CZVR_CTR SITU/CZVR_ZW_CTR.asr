@@ -1,0 +1,131 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:CBBC:name
+Airports:CBBC:symbol
+Airports:CYXT:name
+Airports:CYXT:symbol
+Airports:CZMT:name
+Airports:CZMT:symbol
+ARTCC boundary:CYVR_APP_CORRIDORS_08:
+ARTCC boundary:CYVR_APP_CORRIDORS_26:
+ARTCC boundary:CZVR CLASS_C_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_D_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_E_CTACTR_CZ:
+ARTCC high boundary:CZVR CLASS_A_CTACTR_TCA:
+ARTCC high boundary:CZVR SECTORLINE:
+ARTCC low boundary:CYVR Terminal Floor:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_C_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TSP-RQ:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TSP-RQ:
+Fixes:APLIG:name
+Fixes:APLIG:symbol
+Fixes:DUGGS:name
+Fixes:DUGGS:symbol
+Fixes:FRIED:name
+Fixes:FRIED:symbol
+Fixes:HALAM:name
+Fixes:HALAM:symbol
+Fixes:IKPAL:name
+Fixes:IKPAL:symbol
+Fixes:KALTS:name
+Fixes:KALTS:symbol
+Fixes:KATCH:name
+Fixes:KATCH:symbol
+Fixes:METPA:name
+Fixes:METPA:symbol
+Fixes:NAKBI:name
+Fixes:NAKBI:symbol
+Fixes:PETPA:name
+Fixes:PETPA:symbol
+Fixes:PRYCE:name
+Fixes:PRYCE:symbol
+Geo:CZVR CZVR_AirspaceF_CYA:
+Geo:CZVR CZVR_AirspaceF_CYD:
+Geo:CZVR CZVR_AirspaceF_CYR:
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+High airways:B453:line
+High airways:B453:name
+High airways:J488:line
+High airways:J488:name
+High airways:J501:line
+High airways:J501:name
+High airways:J502:line
+High airways:J502:name
+High airways:J510:line
+High airways:J510:name
+High airways:J523:line
+High airways:J523:name
+High airways:J590:line
+High airways:J590:name
+High airways:J804R:line
+High airways:J804R:name
+High airways:Q801:line
+High airways:Q801:name
+Low airways:A1:line
+Low airways:A1:name
+Low airways:A10:line
+Low airways:A10:name
+Low airways:A15:line
+Low airways:A15:name
+Low airways:B25:line
+Low airways:B25:name
+Low airways:R35:line
+Low airways:R35:name
+Low airways:T664:line
+Low airways:T664:name
+Low airways:T757:line
+Low airways:T757:name
+Low airways:V317:line
+Low airways:V317:name
+Low airways:V368:line
+Low airways:V368:name
+NDBs:PR:name
+NDBs:PR:symbol
+NDBs:ZKI:name
+NDBs:ZKI:symbol
+Regions:CZVR CZVR_AirspaceG:polygon
+Runways:CYPR 13-31:centerline
+Runways:CYPR 13-31:extended centerline 1
+Runways:CYPR 13-31:extended centerline 1 left ticks
+Runways:CYPR 13-31:extended centerline 1 left vectoring
+Runways:CYPR 13-31:extended centerline 1 right ticks
+Runways:CYPR 13-31:extended centerline 1 right vectoring
+Runways:CYZP 13-31:centerline
+Runways:CYZP 13-31:extended centerline 1
+Runways:CYZP 13-31:extended centerline 1 left ticks
+Runways:CYZP 13-31:extended centerline 1 left vectoring
+Runways:CYZP 13-31:extended centerline 1 right ticks
+Runways:CYZP 13-31:extended centerline 1 right vectoring
+VORs:ANN:name
+VORs:ANN:symbol
+VORs:YZP:name
+VORs:YZP:symbol
+VORs:YZT:name
+VORs:YZT:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:50.872504:-138.105922:54.966464:-125.941253
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

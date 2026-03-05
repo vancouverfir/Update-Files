@@ -1,0 +1,96 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYVR Taxiways\Apn I:freetext
+Free Text:CYVR Taxiways\Apn II:freetext
+Free Text:CYVR Taxiways\Apn III:freetext
+Free Text:CYVR Taxiways\Apn IV:freetext
+Free Text:CYVR Taxiways\Apn IX:freetext
+Free Text:CYVR Taxiways\Apn V:freetext
+Free Text:CYVR Taxiways\Apn VI:freetext
+Free Text:CYVR Taxiways\Apn VII:freetext
+Free Text:CYVR Taxiways\Apn VIII:freetext
+Free Text:CYVR Taxiways\H:freetext
+Free Text:CYVR Taxiways\H:freetext
+Free Text:CYVR Taxiways\H:freetext
+Free Text:CYVR Taxiways\H:freetext
+Free Text:CYVR Taxiways\H:freetext
+Free Text:CYVR Taxiways\J:freetext
+Free Text:CYVR Taxiways\J:freetext
+Free Text:CYVR Taxiways\J:freetext
+Free Text:CYVR Taxiways\JA:freetext
+Free Text:CYVR Taxiways\JB:freetext
+Free Text:CYVR Taxiways\JC:freetext
+Free Text:CYVR Taxiways\K:freetext
+Free Text:CYVR Taxiways\L:freetext
+Free Text:CYVR Taxiways\L:freetext
+Free Text:CYVR Taxiways\M:freetext
+Free Text:CYVR Taxiways\M:freetext
+Free Text:CYVR Taxiways\R:freetext
+Free Text:CYVR Taxiways\V:freetext
+Free Text:CYVR Taxiways\V:freetext
+Free Text:CYVR Taxiways\V:freetext
+Free Text:CYVR Taxiways\W1:freetext
+Free Text:CYVR Taxiways\W11:freetext
+Free Text:CYVR Taxiways\W12:freetext
+Free Text:CYVR Taxiways\W13:freetext
+Free Text:CYVR Taxiways\W15:freetext
+Free Text:CYVR Taxiways\W17:freetext
+Free Text:CYVR Taxiways\W18:freetext
+Free Text:CYVR Taxiways\W19:freetext
+Free Text:CYVR Taxiways\W2:freetext
+Free Text:CYVR Taxiways\W3:freetext
+Free Text:CYVR Taxiways\W4:freetext
+Free Text:CYVR Taxiways\W5:freetext
+Free Text:CYVR Taxiways\W6:freetext
+Free Text:CYVR Taxiways\W7:freetext
+Free Text:CYVR Taxiways\W8:freetext
+Free Text:CYVR Taxiways\W9:freetext
+Geo:CYVR Groundlayout:
+Regions:CYVR Ground Files:polygon
+Runways:CYVR 08L-26R:name
+Runways:CYVR 08R-26L:name
+Runways:CYVR 13-31:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:7
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:350.00000
+TAGFAMILY:SITU
+WINDOWAREA:49.195386:-123.201164:49.204346:-123.173275
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYVR
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

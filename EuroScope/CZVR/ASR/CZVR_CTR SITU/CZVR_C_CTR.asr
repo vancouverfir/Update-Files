@@ -1,0 +1,211 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:CAD4:name
+Airports:CAD4:symbol
+Airports:CYCZ:name
+Airports:CYCZ:symbol
+Airports:CYDC:name
+Airports:CYDC:symbol
+ARTCC boundary:CYVR_APP_CORRIDORS_08:
+ARTCC boundary:CYVR_APP_CORRIDORS_26:
+ARTCC boundary:CZVR CLASS_C_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_D_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_E_CTACTR_CZ:
+ARTCC high boundary:CZVR CLASS_A_CTACTR_TCA:
+ARTCC high boundary:CZVR SECTORLINE:
+ARTCC low boundary:CYVR Terminal Floor:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_C_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TSP-RQ:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TSP-RQ:
+Fixes:ALMOM:name
+Fixes:ALMOM:symbol
+Fixes:AMBAT:name
+Fixes:AMBAT:symbol
+Fixes:ANJER:name
+Fixes:ANJER:symbol
+Fixes:ANTAK:name
+Fixes:ANTAK:symbol
+Fixes:BODVI:name
+Fixes:BODVI:symbol
+Fixes:BOOTH:name
+Fixes:BOOTH:symbol
+Fixes:CHITE:name
+Fixes:CHITE:symbol
+Fixes:CHUCK:name
+Fixes:CHUCK:symbol
+Fixes:CILLI:name
+Fixes:CILLI:symbol
+Fixes:CONER:name
+Fixes:CONER:symbol
+Fixes:DAPUS:name
+Fixes:DAPUS:symbol
+Fixes:DASBI:name
+Fixes:DASBI:symbol
+Fixes:DATBO:name
+Fixes:DATBO:symbol
+Fixes:DORSE:name
+Fixes:DORSE:symbol
+Fixes:EBLEL:name
+Fixes:EBLEL:symbol
+Fixes:EDGES:name
+Fixes:EDGES:symbol
+Fixes:EMDAV:name
+Fixes:EMDAV:symbol
+Fixes:ERVYN:name
+Fixes:ERVYN:symbol
+Fixes:FINBO:name
+Fixes:FINBO:symbol
+Fixes:FOLDY:name
+Fixes:FOLDY:symbol
+Fixes:GADAK:name
+Fixes:GADAK:symbol
+Fixes:IKNER:name
+Fixes:IKNER:symbol
+Fixes:IMURO:name
+Fixes:IMURO:symbol
+Fixes:IWACK:name
+Fixes:IWACK:symbol
+Fixes:KEPRI:name
+Fixes:KEPRI:symbol
+Fixes:KETNA:name
+Fixes:KETNA:symbol
+Fixes:LENUR:name
+Fixes:LENUR:symbol
+Fixes:LYTON:name
+Fixes:LYTON:symbol
+Fixes:MENBO:name
+Fixes:MENBO:symbol
+Fixes:MERYT:name
+Fixes:MERYT:symbol
+Fixes:NORIP:name
+Fixes:NORIP:symbol
+Fixes:NOVAR:name
+Fixes:NOVAR:symbol
+Fixes:OMPIM:name
+Fixes:OMPIM:symbol
+Fixes:ONSET:name
+Fixes:ONSET:symbol
+Fixes:PIGLU:name
+Fixes:PIGLU:symbol
+Fixes:PILMA:name
+Fixes:PILMA:symbol
+Fixes:ROBTI:name
+Fixes:ROBTI:symbol
+Fixes:SEKAB:name
+Fixes:SEKAB:symbol
+Fixes:SIGPA:name
+Fixes:SIGPA:symbol
+Fixes:SILVR:name
+Fixes:SILVR:symbol
+Fixes:TAGBA:name
+Fixes:TAGBA:symbol
+Fixes:TIKES:name
+Fixes:TIKES:symbol
+Fixes:TWIGY:name
+Fixes:TWIGY:symbol
+Fixes:TYEEE:name
+Fixes:TYEEE:symbol
+Fixes:VIDRI:name
+Fixes:VIDRI:symbol
+Fixes:VIRSI:name
+Fixes:VIRSI:symbol
+Fixes:VIVEK:name
+Fixes:VIVEK:symbol
+Geo:CZVR CZVR_AirspaceF_CYA:
+Geo:CZVR CZVR_AirspaceF_CYR:
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+High airways:J503:line
+High airways:J503:name
+High airways:J505:line
+High airways:J505:name
+High airways:J517:line
+High airways:J517:name
+High airways:J569:line
+High airways:J569:name
+High airways:J599:line
+High airways:J599:name
+High airways:Q953:line
+High airways:Q953:name
+High airways:Q983:line
+High airways:Q983:name
+NDBs:SX:name
+NDBs:SX:symbol
+NDBs:UNT:name
+NDBs:UNT:symbol
+NDBs:XC:name
+NDBs:XC:symbol
+NDBs:YYF:symbol
+Runways:CYCG 15-33:centerline
+Runways:CYDC 04-22:centerline
+Runways:CYLW 16-34:centerline
+Runways:CYLW 16-34:extended centerline 1
+Runways:CYLW 16-34:extended centerline 1 left ticks
+Runways:CYLW 16-34:extended centerline 1 left vectoring
+Runways:CYLW 16-34:extended centerline 1 right ticks
+Runways:CYLW 16-34:extended centerline 1 right vectoring
+Runways:CYXC 16-34:centerline
+Runways:CYXC 16-34:extended centerline 1
+Runways:CYXC 16-34:extended centerline 1 left ticks
+Runways:CYXC 16-34:extended centerline 1 right ticks
+Runways:CYYF 16-34:centerline
+Runways:CYYF 16-34:extended centerline 1
+Stars:CYLW STAR ALL PIGLU4:
+Stars:CYLW STAR ALL SEKAB4:
+Stars:CYLW STAR IKNER NORIP4:
+Stars:CYLW STAR NOVAR NORIP4:
+Stars:CYLW STAR YXC NORIP4:
+VORs:CVV:name
+VORs:CVV:symbol
+VORs:GEG:name
+VORs:GEG:symbol
+VORs:HUH:name
+VORs:HUH:symbol
+VORs:PAE:name
+VORs:PAE:symbol
+VORs:SEA:name
+VORs:SEA:symbol
+VORs:YDC:name
+VORs:YDC:symbol
+VORs:YEG:name
+VORs:YEG:symbol
+VORs:YNY:name
+VORs:YNY:symbol
+VORs:YPK:name
+VORs:YPK:symbol
+VORs:YRM:name
+VORs:YRM:symbol
+VORs:YVR:name
+VORs:YVR:symbol
+VORs:YWL:name
+VORs:YWL:symbol
+VORs:YXC:name
+VORs:YXC:symbol
+VORs:YYC:name
+VORs:YYC:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:48.528824:-122.086881:51.267546:-113.949127
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

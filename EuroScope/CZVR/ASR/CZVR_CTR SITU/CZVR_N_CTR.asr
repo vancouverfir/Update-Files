@@ -1,0 +1,179 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:CYBL:name
+Airports:CYBL:symbol
+ARTCC boundary:CYNJ CYNJ_CZ:
+ARTCC boundary:CYQQ CYQQ_TCA:
+ARTCC boundary:CYVR CYVR_TCA:
+ARTCC high boundary:CZVR CAE_12500:
+ARTCC high boundary:CZVR CAE_6000:
+ARTCC high boundary:CZVR CAE_8000:
+ARTCC high boundary:CZVR CAE_9000:
+ARTCC high boundary:CZVR CLASS_D_3000-6500:
+ARTCC high boundary:CZVR CLASS_D_4000-6500:
+ARTCC high boundary:CZVR CLASS_D_6000:
+ARTCC high boundary:CZVR CZVR_FIR_H:
+ARTCC high boundary:CZVR CZVR_FIR_L:
+ARTCC high boundary:CZVR SECTORS:
+ARTCC low boundary:CBC7 CBC7_CZ:
+ARTCC low boundary:CYBL CYBL_MF:
+ARTCC low boundary:CYCD CYCD_MF:
+ARTCC low boundary:CYDC CYDC_CAE:
+ARTCC low boundary:CYKA CYKA_CAE:
+ARTCC low boundary:CYKA CYKA_MF:
+ARTCC low boundary:CYLW CYLW_CAE:
+ARTCC low boundary:CYLW CYLW_CZ:
+ARTCC low boundary:CYPK CYPK_CZ:
+ARTCC low boundary:CYQQ CYQQ_CZ:
+ARTCC low boundary:CYQZ CYQZ_CAE:
+ARTCC low boundary:CYVR CYVR_CAE:
+ARTCC low boundary:CYVR CYVR_CZ:
+ARTCC low boundary:CYWH CYWH_MF:
+ARTCC low boundary:CYXX CYXX_CZ:
+ARTCC low boundary:CYYF CYYF:
+ARTCC low boundary:CYYF CYYF_CAE:
+ARTCC low boundary:CYYJ CYYJ_CZ:
+ARTCC low boundary:CYZT CYZT_CAE:
+ARTCC low boundary:CYZT CYZT_MF:
+ARTCC low boundary:CZBB CZBB_CZ:
+ARTCC low boundary:KBLI_TWR:
+Fixes:AQUIN:name
+Fixes:AQUIN:symbol
+Fixes:ELIDI:name
+Fixes:ELIDI:symbol
+Fixes:FASBO:name
+Fixes:FASBO:symbol
+Fixes:GARRE:name
+Fixes:GARRE:symbol
+Fixes:JANEK:name
+Fixes:JANEK:symbol
+Fixes:KEINN:name
+Fixes:KEINN:symbol
+Fixes:LYTON:name
+Fixes:LYTON:symbol
+Fixes:OMSUV:name
+Fixes:OMSUV:symbol
+Fixes:POWOL:name
+Fixes:POWOL:symbol
+Fixes:QUODY:name
+Fixes:QUODY:symbol
+Fixes:TRENA:name
+Fixes:TRENA:symbol
+Fixes:VIDRI:name
+Fixes:VIDRI:symbol
+Geo:CZVR CZVR Coastline:
+Geo:GEO:
+High airways:J528:line
+High airways:J528:name
+High airways:J534:line
+High airways:J534:name
+High airways:J541:line
+High airways:J541:name
+High airways:J590:line
+High airways:J590:name
+Low airways:T606:line
+Low airways:T606:name
+Low airways:T610:line
+Low airways:T610:name
+Low airways:T618:line
+Low airways:T618:name
+Low airways:V321:line
+Low airways:V321:name
+Low airways:V338:line
+Low airways:V338:name
+Low airways:V349:line
+Low airways:V349:name
+Low airways:V441:line
+Low airways:V441:name
+NDBs:AP:name
+NDBs:AP:symbol
+NDBs:DC:name
+NDBs:DC:symbol
+NDBs:HE:name
+NDBs:HE:symbol
+NDBs:LW:name
+NDBs:LW:symbol
+NDBs:QQ:name
+NDBs:QQ:symbol
+NDBs:UAB:name
+NDBs:UAB:symbol
+NDBs:UNT:name
+NDBs:UNT:symbol
+NDBs:VR:name
+NDBs:VR:symbol
+NDBs:WC:name
+NDBs:WC:symbol
+NDBs:XX:name
+NDBs:XX:symbol
+NDBs:YBL:name
+NDBs:YBL:symbol
+NDBs:YCD:name
+NDBs:YCD:symbol
+NDBs:YKA:name
+NDBs:YKA:symbol
+NDBs:YPW:name
+NDBs:YPW:symbol
+NDBs:YZA:name
+NDBs:YZA:symbol
+Runways:CYVR 08L-26R:centerline
+Runways:CYVR 08L-26R:extended centerline 1
+Runways:CYVR 08L-26R:extended centerline 1 left ticks
+Runways:CYVR 08L-26R:extended centerline 1 left vectoring
+Runways:CYVR 08L-26R:extended centerline 2
+Runways:CYVR 08L-26R:extended centerline 2 right ticks
+Runways:CYVR 08L-26R:extended centerline 2 right vectoring
+Runways:CYVR 08L-26R:name
+Runways:CYVR 08R-26L:centerline
+Runways:CYVR 08R-26L:extended centerline 1
+Runways:CYVR 08R-26L:extended centerline 1 right ticks
+Runways:CYVR 08R-26L:extended centerline 1 right vectoring
+Runways:CYVR 08R-26L:extended centerline 2
+Runways:CYVR 08R-26L:extended centerline 2 left ticks
+Runways:CYVR 08R-26L:extended centerline 2 left vectoring
+Runways:CYVR 08R-26L:name
+Runways:CYVR 13-31:centerline
+Runways:CYVR 13-31:extended centerline 1
+Runways:CYVR 13-31:extended centerline 1 left ticks
+Runways:CYVR 13-31:extended centerline 1 left vectoring
+Runways:CYVR 13-31:extended centerline 1 right ticks
+Runways:CYVR 13-31:extended centerline 1 right vectoring
+Runways:CYVR 13-31:extended centerline 2
+Runways:CYVR 13-31:extended centerline 2 left ticks
+Runways:CYVR 13-31:extended centerline 2 left vectoring
+Runways:CYVR 13-31:extended centerline 2 right ticks
+Runways:CYVR 13-31:extended centerline 2 right vectoring
+Runways:CYVR 13-31:name
+VORs:CVV:name
+VORs:CVV:symbol
+VORs:HUH:name
+VORs:HUH:symbol
+VORs:YDC:name
+VORs:YDC:symbol
+VORs:YNY:name
+VORs:YNY:symbol
+VORs:YPK:name
+VORs:YPK:symbol
+VORs:YVR:name
+VORs:YVR:symbol
+VORs:YYJ:name
+VORs:YYJ:symbol
+VORs:YZT:name
+VORs:YZT:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SITU
+WINDOWAREA:48.498525:-128.199713:51.578559:-118.510755
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

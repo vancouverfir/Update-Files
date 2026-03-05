@@ -1,0 +1,124 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:CAM3:name
+Airports:CAM3:symbol
+ARTCC boundary:CZVR CLASS_C_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_D_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_E_CTACTR_CZ:
+ARTCC low boundary:CYVR Terminal Floor:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_C_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TSP-RQ:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TSP-RQ:
+Fixes:BRANY:name
+Fixes:BRANY:symbol
+Fixes:DAXET:name
+Fixes:DAXET:symbol
+Fixes:DEGPO:name
+Fixes:DEGPO:symbol
+Fixes:DISCO:name
+Fixes:DISCO:symbol
+Fixes:DUNCN:name
+Fixes:DUNCN:symbol
+Fixes:IKLAG:name
+Fixes:IKLAG:symbol
+Fixes:IKLER:name
+Fixes:IKLER:symbol
+Fixes:KELKU:name
+Fixes:KELKU:symbol
+Fixes:LIDIS:name
+Fixes:LIDIS:symbol
+Fixes:LUSHE:name
+Fixes:LUSHE:symbol
+Fixes:MEDBA:name
+Fixes:MEDBA:symbol
+Fixes:OMINU:name
+Fixes:OMINU:symbol
+Fixes:PELTI:name
+Fixes:PELTI:symbol
+Fixes:VCACT:symbol
+Fixes:VCBVR:symbol
+Fixes:VCBWB:symbol
+Fixes:VCCOR:symbol
+Fixes:VCCOW:symbol
+Fixes:VCDRC:symbol
+Fixes:VCEST:symbol
+Fixes:VCFNL:symbol
+Fixes:VCGAN:symbol
+Fixes:VCMOR:symbol
+Fixes:VCSAM:symbol
+Fixes:VCSHW:symbol
+Fixes:VCSOM:symbol
+Fixes:VCSOO:symbol
+Fixes:VCSRT:symbol
+Fixes:VCVES:symbol
+Fixes:VIXAS:name
+Fixes:VIXAS:symbol
+Free Text:CYVR TML Floor\TWR 119.1 ABV 07:freetext
+Free Text:CYVR TML Floor\TWR 119.1 ABV 12:freetext
+Free Text:CYVR TML Floor\TWR 119.1 ABV 12:freetext
+Free Text:CYYJ VFR Checkpoints\ACTIVE PASS:freetext
+Free Text:CYYJ VFR Checkpoints\BEAVER POINT:freetext
+Free Text:CYYJ VFR Checkpoints\BRENTWOOD:freetext
+Free Text:CYYJ VFR Checkpoints\CORDOVA BAY:freetext
+Free Text:CYYJ VFR Checkpoints\COWICHAN BAY:freetext
+Free Text:CYYJ VFR Checkpoints\EAST POINT:freetext
+Free Text:CYYJ VFR Checkpoints\FINLAYSON:freetext
+Free Text:CYYJ VFR Checkpoints\GANGES:freetext
+Free Text:CYYJ VFR Checkpoints\MORESBY ISLAND:freetext
+Free Text:CYYJ VFR Checkpoints\SAMUEL ISLAND:freetext
+Free Text:CYYJ VFR Checkpoints\SHAWNIGAN LAKE:freetext
+Free Text:CYYJ VFR Checkpoints\SOMENOS LAKE:freetext
+Free Text:CYYJ VFR Checkpoints\SOOKE LAKE:freetext
+Free Text:CYYJ VFR Checkpoints\STUART ISLAND:freetext
+Free Text:CYYJ VFR Checkpoints\VESUVIUS BAY:freetext
+Geo:CZVR CZVR_AirspaceF_CYA:
+Geo:CZVR CZVR_AirspaceF_CYR:
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+NDBs:AP:symbol
+NDBs:FHR:name
+NDBs:FHR:symbol
+NDBs:MB:name
+NDBs:MB:symbol
+NDBs:YJ:name
+NDBs:YJ:symbol
+Runways:CYYJ 03-21:centerline
+Runways:CYYJ 09-27:centerline
+Runways:CYYJ 09-27:extended centerline 1
+Runways:CYYJ 09-27:extended centerline 1 left ticks
+Runways:CYYJ 09-27:extended centerline 1 left vectoring
+Runways:CYYJ 09-27:extended centerline 2
+Runways:CYYJ 09-27:extended centerline 2 left ticks
+Runways:CYYJ 09-27:extended centerline 2 left vectoring
+Runways:CYYJ 14-32:centerline
+Sids:CYYJ SID 03 CYYJ5:
+Sids:CYYJ SID 09 CYYJ5:
+Sids:CYYJ SID 14 CYYJ5:
+VORs:YYJ:name
+VORs:YYJ:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:48.473632:-123.946418:48.821981:-122.911344
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

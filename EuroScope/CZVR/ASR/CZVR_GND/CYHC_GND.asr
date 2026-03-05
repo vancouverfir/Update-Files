@@ -1,0 +1,58 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYHC Taxiways\AREA ALPHA:freetext
+Free Text:CYHC Taxiways\AREA BRAVO:freetext
+Free Text:CYHC Taxiways\AREA CHARLIE:freetext
+Free Text:CYHC Taxiways\Docks:freetext
+Free Text:CYHC Taxiways\Fuel:freetext
+Free Text:CYHC Taxiways\Harbour Air:freetext
+Free Text:CYHC Taxiways\Helijet:freetext
+Free Text:CYHC Taxiways\Lions Gate Bridge:freetext
+Free Text:CYHC Taxiways\Restricted Area East of Lions Bridge and West of Harbour Air:freetext
+Free Text:CYHC Taxiways\Second Narrows Bridge:freetext
+Free Text:CYHC Taxiways\TWR:freetext
+Regions:CYHC Ground Files:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:7
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SITU
+WINDOWAREA:49.273629:-123.176770:49.332431:-122.993827
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYHC
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

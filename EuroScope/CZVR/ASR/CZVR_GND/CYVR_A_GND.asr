@@ -1,0 +1,255 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYVR Taxiways\10:freetext
+Free Text:CYVR Taxiways\12:freetext
+Free Text:CYVR Taxiways\13:freetext
+Free Text:CYVR Taxiways\14:freetext
+Free Text:CYVR Taxiways\15:freetext
+Free Text:CYVR Taxiways\16:freetext
+Free Text:CYVR Taxiways\17:freetext
+Free Text:CYVR Taxiways\18:freetext
+Free Text:CYVR Taxiways\19:freetext
+Free Text:CYVR Taxiways\1A:freetext
+Free Text:CYVR Taxiways\1B:freetext
+Free Text:CYVR Taxiways\1C:freetext
+Free Text:CYVR Taxiways\1D:freetext
+Free Text:CYVR Taxiways\1E:freetext
+Free Text:CYVR Taxiways\1F:freetext
+Free Text:CYVR Taxiways\1G:freetext
+Free Text:CYVR Taxiways\1H:freetext
+Free Text:CYVR Taxiways\1J:freetext
+Free Text:CYVR Taxiways\1K:freetext
+Free Text:CYVR Taxiways\1L:freetext
+Free Text:CYVR Taxiways\1M:freetext
+Free Text:CYVR Taxiways\1N:freetext
+Free Text:CYVR Taxiways\1P:freetext
+Free Text:CYVR Taxiways\1Q:freetext
+Free Text:CYVR Taxiways\1R:freetext
+Free Text:CYVR Taxiways\1T:freetext
+Free Text:CYVR Taxiways\1U:freetext
+Free Text:CYVR Taxiways\20:freetext
+Free Text:CYVR Taxiways\21:freetext
+Free Text:CYVR Taxiways\22:freetext
+Free Text:CYVR Taxiways\23:freetext
+Free Text:CYVR Taxiways\24:freetext
+Free Text:CYVR Taxiways\25:freetext
+Free Text:CYVR Taxiways\26:freetext
+Free Text:CYVR Taxiways\27:freetext
+Free Text:CYVR Taxiways\28:freetext
+Free Text:CYVR Taxiways\29:freetext
+Free Text:CYVR Taxiways\2A:freetext
+Free Text:CYVR Taxiways\2B:freetext
+Free Text:CYVR Taxiways\2C:freetext
+Free Text:CYVR Taxiways\2D:freetext
+Free Text:CYVR Taxiways\2E:freetext
+Free Text:CYVR Taxiways\2G:freetext
+Free Text:CYVR Taxiways\2H:freetext
+Free Text:CYVR Taxiways\2J:freetext
+Free Text:CYVR Taxiways\30:freetext
+Free Text:CYVR Taxiways\31:freetext
+Free Text:CYVR Taxiways\32:freetext
+Free Text:CYVR Taxiways\33:freetext
+Free Text:CYVR Taxiways\34:freetext
+Free Text:CYVR Taxiways\35:freetext
+Free Text:CYVR Taxiways\36:freetext
+Free Text:CYVR Taxiways\37:freetext
+Free Text:CYVR Taxiways\38:freetext
+Free Text:CYVR Taxiways\39:freetext
+Free Text:CYVR Taxiways\40:freetext
+Free Text:CYVR Taxiways\401:freetext
+Free Text:CYVR Taxiways\402:freetext
+Free Text:CYVR Taxiways\41:freetext
+Free Text:CYVR Taxiways\42:freetext
+Free Text:CYVR Taxiways\43:freetext
+Free Text:CYVR Taxiways\44:freetext
+Free Text:CYVR Taxiways\45:freetext
+Free Text:CYVR Taxiways\46:freetext
+Free Text:CYVR Taxiways\47:freetext
+Free Text:CYVR Taxiways\48:freetext
+Free Text:CYVR Taxiways\49:freetext
+Free Text:CYVR Taxiways\50:freetext
+Free Text:CYVR Taxiways\501:freetext
+Free Text:CYVR Taxiways\502:freetext
+Free Text:CYVR Taxiways\51:freetext
+Free Text:CYVR Taxiways\52:freetext
+Free Text:CYVR Taxiways\53:freetext
+Free Text:CYVR Taxiways\54:freetext
+Free Text:CYVR Taxiways\55:freetext
+Free Text:CYVR Taxiways\58:freetext
+Free Text:CYVR Taxiways\6:freetext
+Free Text:CYVR Taxiways\62:freetext
+Free Text:CYVR Taxiways\64:freetext
+Free Text:CYVR Taxiways\66:freetext
+Free Text:CYVR Taxiways\67:freetext
+Free Text:CYVR Taxiways\68:freetext
+Free Text:CYVR Taxiways\69:freetext
+Free Text:CYVR Taxiways\6A:freetext
+Free Text:CYVR Taxiways\6B:freetext
+Free Text:CYVR Taxiways\6C:freetext
+Free Text:CYVR Taxiways\6D:freetext
+Free Text:CYVR Taxiways\6E:freetext
+Free Text:CYVR Taxiways\6F:freetext
+Free Text:CYVR Taxiways\6G:freetext
+Free Text:CYVR Taxiways\6H:freetext
+Free Text:CYVR Taxiways\6J:freetext
+Free Text:CYVR Taxiways\6K:freetext
+Free Text:CYVR Taxiways\6L:freetext
+Free Text:CYVR Taxiways\6M:freetext
+Free Text:CYVR Taxiways\6N:freetext
+Free Text:CYVR Taxiways\6Q:freetext
+Free Text:CYVR Taxiways\6R:freetext
+Free Text:CYVR Taxiways\6T:freetext
+Free Text:CYVR Taxiways\6U:freetext
+Free Text:CYVR Taxiways\6W:freetext
+Free Text:CYVR Taxiways\7:freetext
+Free Text:CYVR Taxiways\70:freetext
+Free Text:CYVR Taxiways\71:freetext
+Free Text:CYVR Taxiways\72:freetext
+Free Text:CYVR Taxiways\73:freetext
+Free Text:CYVR Taxiways\74:freetext
+Free Text:CYVR Taxiways\75:freetext
+Free Text:CYVR Taxiways\76:freetext
+Free Text:CYVR Taxiways\77A:freetext
+Free Text:CYVR Taxiways\78:freetext
+Free Text:CYVR Taxiways\79:freetext
+Free Text:CYVR Taxiways\8:freetext
+Free Text:CYVR Taxiways\80:freetext
+Free Text:CYVR Taxiways\801:freetext
+Free Text:CYVR Taxiways\802:freetext
+Free Text:CYVR Taxiways\803:freetext
+Free Text:CYVR Taxiways\81:freetext
+Free Text:CYVR Taxiways\82:freetext
+Free Text:CYVR Taxiways\83:freetext
+Free Text:CYVR Taxiways\85:freetext
+Free Text:CYVR Taxiways\86:freetext
+Free Text:CYVR Taxiways\87:freetext
+Free Text:CYVR Taxiways\88:freetext
+Free Text:CYVR Taxiways\9:freetext
+Free Text:CYVR Taxiways\90:freetext
+Free Text:CYVR Taxiways\91:freetext
+Free Text:CYVR Taxiways\92:freetext
+Free Text:CYVR Taxiways\93:freetext
+Free Text:CYVR Taxiways\94:freetext
+Free Text:CYVR Taxiways\95A:freetext
+Free Text:CYVR Taxiways\95B:freetext
+Free Text:CYVR Taxiways\96:freetext
+Free Text:CYVR Taxiways\Air Canada Hangars:freetext
+Free Text:CYVR Taxiways\Apn I:freetext
+Free Text:CYVR Taxiways\Apn II:freetext
+Free Text:CYVR Taxiways\Apn III:freetext
+Free Text:CYVR Taxiways\Apn IV:freetext
+Free Text:CYVR Taxiways\Apn IX:freetext
+Free Text:CYVR Taxiways\Apn V:freetext
+Free Text:CYVR Taxiways\Apn VI:freetext
+Free Text:CYVR Taxiways\Apn VII:freetext
+Free Text:CYVR Taxiways\Apn VIII:freetext
+Free Text:CYVR Taxiways\B (Closed):freetext
+Free Text:CYVR Taxiways\C:freetext
+Free Text:CYVR Taxiways\Coast Guard:freetext
+Free Text:CYVR Taxiways\DR:freetext
+Free Text:CYVR Taxiways\DS:freetext
+Free Text:CYVR Taxiways\DT:freetext
+Free Text:CYVR Taxiways\DU:freetext
+Free Text:CYVR Taxiways\DV:freetext
+Free Text:CYVR Taxiways\DW:freetext
+Free Text:CYVR Taxiways\DY:freetext
+Free Text:CYVR Taxiways\E:freetext
+Free Text:CYVR Taxiways\E:freetext
+Free Text:CYVR Taxiways\E:freetext
+Free Text:CYVR Taxiways\E1:freetext
+Free Text:CYVR Taxiways\E10:freetext
+Free Text:CYVR Taxiways\E11:freetext
+Free Text:CYVR Taxiways\E12:freetext
+Free Text:CYVR Taxiways\E13:freetext
+Free Text:CYVR Taxiways\E14:freetext
+Free Text:CYVR Taxiways\E15:freetext
+Free Text:CYVR Taxiways\E16:freetext
+Free Text:CYVR Taxiways\E17:freetext
+Free Text:CYVR Taxiways\E18:freetext
+Free Text:CYVR Taxiways\E19:freetext
+Free Text:CYVR Taxiways\E2:freetext
+Free Text:CYVR Taxiways\E3:freetext
+Free Text:CYVR Taxiways\F:freetext
+Free Text:CYVR Taxiways\F:freetext
+Free Text:CYVR Taxiways\FedEx:freetext
+Free Text:CYVR Taxiways\G:freetext
+Free Text:CYVR Taxiways\Ground Runup Enclosure:freetext
+Free Text:CYVR Taxiways\Helipad B (Closed):freetext
+Free Text:CYVR Taxiways\Helipad C:freetext
+Free Text:CYVR Taxiways\J:freetext
+Free Text:CYVR Taxiways\J:freetext
+Free Text:CYVR Taxiways\J:freetext
+Free Text:CYVR Taxiways\JA:freetext
+Free Text:CYVR Taxiways\JB:freetext
+Free Text:CYVR Taxiways\JC:freetext
+Free Text:CYVR Taxiways\L:freetext
+Free Text:CYVR Taxiways\L:freetext
+Free Text:CYVR Taxiways\Landmark Shell:freetext
+Free Text:CYVR Taxiways\London Air Services:freetext
+Free Text:CYVR Taxiways\Million Air:freetext
+Free Text:CYVR Taxiways\N7:freetext
+Free Text:CYVR Taxiways\P:freetext
+Free Text:CYVR Taxiways\Purolator:freetext
+Free Text:CYVR Taxiways\Q:freetext
+Free Text:CYVR Taxiways\S:freetext
+Free Text:CYVR Taxiways\S1:freetext
+Free Text:CYVR Taxiways\S1A:freetext
+Free Text:CYVR Taxiways\S1B:freetext
+Free Text:CYVR Taxiways\S2:freetext
+Free Text:CYVR Taxiways\S2A:freetext
+Free Text:CYVR Taxiways\S2B:freetext
+Free Text:CYVR Taxiways\Seaplane Base:freetext
+Free Text:CYVR Taxiways\Signature Esso:freetext
+Free Text:CYVR Taxiways\South Terminal:freetext
+Free Text:CYVR Taxiways\T:freetext
+Free Text:CYVR Taxiways\UPS:freetext
+Geo:CYVR Groundlayout:
+Geo:CYVR Start Box:
+Regions:CYVR Ground Files:polygon
+Runways:CYVR 08L-26R:name
+Runways:CYVR 08R-26L:name
+Runways:CYVR 13-31:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:7
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:350.00000
+TAGFAMILY:SITU
+WINDOWAREA:49.186813:-123.203518:49.204313:-123.149048
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYVR
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

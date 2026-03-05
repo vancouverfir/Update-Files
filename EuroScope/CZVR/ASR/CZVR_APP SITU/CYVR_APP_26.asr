@@ -1,0 +1,281 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:CZVR CLASS_C_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_D_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_E_CTACTR_CZ:
+Airports:CAT4:name
+Airports:CAT4:symbol
+Airports:CYCW:name
+Airports:CYCW:symbol
+Fixes:ADSIX:name
+Fixes:ADSIX:symbol
+Fixes:ANVAP:name
+Fixes:ANVAP:symbol
+Fixes:ATUKI:name
+Fixes:ATUKI:symbol
+Fixes:AVOLU:name
+Fixes:AVOLU:symbol
+Fixes:BEZOV:name
+Fixes:BEZOV:symbol
+Fixes:BOOTH:name
+Fixes:BOOTH:symbol
+Fixes:BUICK:name
+Fixes:BUICK:symbol
+Fixes:CASDY:name
+Fixes:CASDY:symbol
+Fixes:DUTOM:name
+Fixes:DUTOM:symbol
+Fixes:DUXUM:name
+Fixes:DUXUM:symbol
+Fixes:EGRET:name
+Fixes:EGRET:symbol
+Fixes:ELIDI:name
+Fixes:ELIDI:symbol
+Fixes:FOCHE:name
+Fixes:FOCHE:symbol
+Fixes:GONIR:name
+Fixes:GONIR:symbol
+Fixes:GOPAD:name
+Fixes:GOPAD:symbol
+Fixes:GOREG:name
+Fixes:GOREG:symbol
+Fixes:GOVAD:name
+Fixes:GOVAD:symbol
+Fixes:GOVAV:name
+Fixes:GOVAV:symbol
+Fixes:HADER:name
+Fixes:HADER:symbol
+Fixes:IKMUV:name
+Fixes:IKMUV:symbol
+Fixes:IKURI:name
+Fixes:IKURI:symbol
+Fixes:ILSAA:name
+Fixes:ILSAA:symbol
+Fixes:ILUXU:name
+Fixes:ILUXU:symbol
+Fixes:IMESO:name
+Fixes:IMESO:symbol
+Fixes:IMOXU:name
+Fixes:IMOXU:symbol
+Fixes:IRLAX:name
+Fixes:IRLAX:symbol
+Fixes:ITGIL:name
+Fixes:ITGIL:symbol
+Fixes:KEINN:name
+Fixes:KEINN:symbol
+Fixes:KEKPO:name
+Fixes:KEKPO:symbol
+Fixes:KIPUR:name
+Fixes:KIPUR:symbol
+Fixes:LESEM:name
+Fixes:LESEM:symbol
+Fixes:LIBOG:name
+Fixes:LIBOG:symbol
+Fixes:METOW:name
+Fixes:METOW:symbol
+Fixes:MOGUS:name
+Fixes:MOGUS:symbol
+Fixes:MUBOV:name
+Fixes:MUBOV:symbol
+Fixes:NAGUP:name
+Fixes:NAGUP:symbol
+Fixes:NALGI:name
+Fixes:NALGI:symbol
+Fixes:NANOO:name
+Fixes:NANOO:symbol
+Fixes:OBTOT:name
+Fixes:OBTOT:symbol
+Fixes:OMINO:name
+Fixes:OMINO:symbol
+Fixes:ONDUX:name
+Fixes:ONDUX:symbol
+Fixes:OVBIN:name
+Fixes:OVBIN:symbol
+Fixes:PEKAA:name
+Fixes:PEKAA:symbol
+Fixes:PEMSU:name
+Fixes:PEMSU:symbol
+Fixes:PESGU:name
+Fixes:PESGU:symbol
+Fixes:PILGO:name
+Fixes:PILGO:symbol
+Fixes:PIZZE:name
+Fixes:PIZZE:symbol
+Fixes:POWOL:name
+Fixes:POWOL:symbol
+Fixes:QUODY:name
+Fixes:QUODY:symbol
+Fixes:SAXAG:name
+Fixes:SAXAG:symbol
+Fixes:SEDUS:name
+Fixes:SEDUS:symbol
+Fixes:SQURL:name
+Fixes:SQURL:symbol
+Fixes:STAVE:name
+Fixes:STAVE:symbol
+Fixes:TAGIX:name
+Fixes:TAGIX:symbol
+Fixes:TASDI:name
+Fixes:TASDI:symbol
+Fixes:TOTIM:name
+Fixes:TOTIM:symbol
+Fixes:TREEL:name
+Fixes:TREEL:symbol
+Fixes:TRENA:name
+Fixes:TRENA:symbol
+Fixes:URMIX:name
+Fixes:URMIX:symbol
+Fixes:VIGSO:name
+Fixes:VIGSO:symbol
+Fixes:VIMKI:name
+Fixes:VIMKI:symbol
+Fixes:VITEV:name
+Fixes:VITEV:symbol
+Fixes:VOGAD:name
+Fixes:VOGAD:symbol
+Free Text:CYVR _X_RNAV_CANUC6_Rwy26\/120 90/:freetext
+Free Text:CYVR _X_RNAV_CANUC6_Rwy26\40/:freetext
+Free Text:CYVR _X_RNAV_CANUC6_Rwy26\50/:freetext
+Free Text:CYVR _X_RNAV_CANUC6_Rwy26\70/:freetext
+Free Text:CYVR _X_RNAV_CANUC6_Rwy26\90/:freetext
+Free Text:CYVR _X_RNAV_CYPRS1_Rwy26\C /100/:freetext
+Free Text:CYVR _X_RNAV_CYPRS1_Rwy26\C 100/:freetext
+Free Text:CYVR _X_RNAV_GRIZZ8_Rwy26\/120 100/ p/100/:freetext
+Free Text:CYVR _X_RNAV_GRIZZ8_Rwy26\140/:freetext
+Free Text:CYVR _X_RNAV_GRIZZ8_Rwy26\26L /63/:freetext
+Free Text:CYVR _X_RNAV_GRIZZ8_Rwy26\26R /50/:freetext
+Free Text:CYVR _X_RNAV_GRIZZ8_Rwy26\80/:freetext
+Free Text:CYVR _X_RNAV_SHARK4_Rwy26\/120 100/:freetext
+Free Text:CYVR _X_RNAV_SHARK4_Rwy26\/170 110/:freetext
+Free Text:CYVR _X_RNAV_SHARK4_Rwy26\110/:freetext
+Free Text:CYVR _X_RNAV_SHARK4_Rwy26\60/:freetext
+Free Text:CYVR _X_RNAV_SHARK4_Rwy26\80/:freetext
+Free Text:CYVR _X_RNAV_SHARK4_Rwy26\90/:freetext
+Free Text:CYVR _X_RNAV_SOUND6_Rwy26\/90 70/:freetext
+Free Text:CYVR _X_RNAV_SOUND6_Rwy26\60/:freetext
+Free Text:CYVR _X_RNAV_WHSLR8_Rwy26\/60/:freetext
+Free Text:CYVR _X_RNAV_WHSLR8_Rwy26\80/:freetext
+Free Text:CYVR _X_RNAV_WHSLR8_Rwy26\90/:freetext
+Free Text:CYVR _X_RNAV_WHSLR8_Rwy26\W /140 110/ JET ONLY:freetext
+Free Text:CYVR _X_RNAV_WHSLR8_Rwy26\W 110/:freetext
+Geo:CYVR CYVR_MRVA_Altitudes:
+Geo:CYVR CYVR_MRVA_Sectors:
+Geo:CZVR CZVR_AirspaceF_CYR:
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+High airways:J5:line
+High airways:J5:name
+NDBs:YCD:name
+NDBs:YCD:symbol
+Runways:CYCD 16-34:centerline
+Runways:CYCD 16-34:extended centerline 1
+Runways:CYCD 16-34:extended centerline 1 left ticks
+Runways:CYCD 16-34:extended centerline 1 left vectoring
+Runways:CYCD 16-34:extended centerline 1 right ticks
+Runways:CYCD 16-34:extended centerline 1 right vectoring
+Runways:CYNJ 01-19:centerline
+Runways:CYNJ 07-25:centerline
+Runways:CYPK 08L-26R:centerline
+Runways:CYPK 08R-26L:centerline
+Runways:CYPK 18-36:centerline
+Runways:CYVR 08L-26R:centerline
+Runways:CYVR 08L-26R:extended centerline 1
+Runways:CYVR 08L-26R:extended centerline 1 left ticks
+Runways:CYVR 08L-26R:extended centerline 1 left vectoring
+Runways:CYVR 08L-26R:extended centerline 2
+Runways:CYVR 08L-26R:extended centerline 2 right ticks
+Runways:CYVR 08L-26R:extended centerline 2 right vectoring
+Runways:CYVR 08R-26L:centerline
+Runways:CYVR 08R-26L:extended centerline 1
+Runways:CYVR 08R-26L:extended centerline 1 right ticks
+Runways:CYVR 08R-26L:extended centerline 1 right vectoring
+Runways:CYVR 08R-26L:extended centerline 2
+Runways:CYVR 08R-26L:extended centerline 2 left ticks
+Runways:CYVR 08R-26L:extended centerline 2 left vectoring
+Runways:CYVR 13-31:centerline
+Runways:CYVR 13-31:extended centerline 1 left ticks
+Runways:CYVR 13-31:extended centerline 1 right ticks
+Runways:CYXX 01-19:centerline
+Runways:CYXX 07-25:centerline
+Runways:CYXX 07-25:extended centerline 1
+Runways:CYXX 07-25:extended centerline 1 left ticks
+Runways:CYXX 07-25:extended centerline 1 left vectoring
+Runways:CYXX 07-25:extended centerline 1 right ticks
+Runways:CYXX 07-25:extended centerline 1 right vectoring
+Runways:CYYJ 03-21:centerline
+Runways:CYYJ 09-27:centerline
+Runways:CYYJ 09-27:extended centerline 1
+Runways:CYYJ 09-27:extended centerline 1 left ticks
+Runways:CYYJ 09-27:extended centerline 1 left vectoring
+Runways:CYYJ 09-27:extended centerline 1 right ticks
+Runways:CYYJ 09-27:extended centerline 1 right vectoring
+Runways:CYYJ 09-27:extended centerline 2
+Runways:CYYJ 09-27:extended centerline 2 left ticks
+Runways:CYYJ 09-27:extended centerline 2 left vectoring
+Runways:CYYJ 09-27:extended centerline 2 right ticks
+Runways:CYYJ 09-27:extended centerline 2 right vectoring
+Runways:CYYJ 14-32:centerline
+Runways:CZBB 07-25:centerline
+Runways:CZBB 07-25:extended centerline 1
+Runways:CZBB 13-31:centerline
+Runways:KBLI 16-34:centerline
+Runways:KBLI 16-34:extended centerline 1
+Runways:KBLI 16-34:extended centerline 1 left ticks
+Runways:KBLI 16-34:extended centerline 1 left vectoring
+Runways:KBLI 16-34:extended centerline 1 right ticks
+Runways:KBLI 16-34:extended centerline 1 right vectoring
+Stars:CYVR STAR 26L CANUC6:
+Stars:CYVR STAR 26L CYPRS1:
+Stars:CYVR STAR 26L DUXUM6:
+Stars:CYVR STAR 26L GRIZZ8:
+Stars:CYVR STAR 26L SHARK4:
+Stars:CYVR STAR 26L SOUND6:
+Stars:CYVR STAR 26L WHSLR8:
+Stars:CYVR STAR 26R CANUC6:
+Stars:CYVR STAR 26R CYPRS1:
+Stars:CYVR STAR 26R DUXUM6:
+Stars:CYVR STAR 26R GRIZZ8:
+Stars:CYVR STAR 26R SHARK4:
+Stars:CYVR STAR 26R SOUND6:
+Stars:CYVR STAR 26R WHSLR8:
+Stars:CYVR STAR BUICK DUXUM6:
+Stars:CYVR STAR CANUC6:
+Stars:CYVR STAR ELIDI CYPRS1:
+Stars:CYVR STAR ELIDI WHSLR8:
+Stars:CYVR STAR GOVAD SHARK4:
+Stars:CYVR STAR METOW GRIZZ8:
+Stars:CYVR STAR NALGI DUXUM6:
+Stars:CYVR STAR PAE GRIZZ8:
+Stars:CYVR STAR PEKAA SHARK4:
+Stars:CYVR STAR POWOL CYPRS1:
+Stars:CYVR STAR POWOL WHSLR8:
+Stars:CYVR STAR SOUND6:
+Stars:CYVR STAR TRENA CYPRS1:
+Stars:CYVR STAR TRENA WHSLR8:
+VORs:CVV:name
+VORs:CVV:symbol
+VORs:PAE:name
+VORs:PAE:symbol
+VORs:YPK:name
+VORs:YPK:symbol
+VORs:YVR:name
+VORs:YVR:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:48.549208:-125.101771:49.840377:-121.265231
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

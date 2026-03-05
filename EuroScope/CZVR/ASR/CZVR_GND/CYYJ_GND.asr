@@ -1,0 +1,102 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYYJ Taxiways\A:freetext
+Free Text:CYYJ Taxiways\Apron I:freetext
+Free Text:CYYJ Taxiways\Apron II:freetext
+Free Text:CYYJ Taxiways\Apron II and Twy C restricted to 50,000 Lbs:freetext
+Free Text:CYYJ Taxiways\Apron III:freetext
+Free Text:CYYJ Taxiways\Apron IV:freetext
+Free Text:CYYJ Taxiways\Apron V:freetext
+Free Text:CYYJ Taxiways\B:freetext
+Free Text:CYYJ Taxiways\C:freetext
+Free Text:CYYJ Taxiways\C:freetext
+Free Text:CYYJ Taxiways\Ctrl Twr:freetext
+Free Text:CYYJ Taxiways\D:freetext
+Free Text:CYYJ Taxiways\DND:freetext
+Free Text:CYYJ Taxiways\DND:freetext
+Free Text:CYYJ Taxiways\E:freetext
+Free Text:CYYJ Taxiways\E:freetext
+Free Text:CYYJ Taxiways\E:freetext
+Free Text:CYYJ Taxiways\E:freetext
+Free Text:CYYJ Taxiways\E:freetext
+Free Text:CYYJ Taxiways\Esso:freetext
+Free Text:CYYJ Taxiways\G:freetext
+Free Text:CYYJ Taxiways\G:freetext
+Free Text:CYYJ Taxiways\G:freetext
+Free Text:CYYJ Taxiways\G:freetext
+Free Text:CYYJ Taxiways\K:freetext
+Free Text:CYYJ Taxiways\LAHSO Rwy 09 short 03/21 3169':freetext
+Free Text:CYYJ Taxiways\LAHSO Rwy 27 short 03/21 3039':freetext
+Free Text:CYYJ Taxiways\LAHSO Rwy 27 short 14/32 4459':freetext
+Free Text:CYYJ Taxiways\LAHSO Rwy 32 short 09/27 3393':freetext
+Free Text:CYYJ Taxiways\M:freetext
+Free Text:CYYJ Taxiways\N:freetext
+Free Text:CYYJ Taxiways\N De-Ice:freetext
+Free Text:CYYJ Taxiways\Rgt hand circuits Rwys 09, 21 & 32:freetext
+Free Text:CYYJ Taxiways\S:freetext
+Free Text:CYYJ Taxiways\S:freetext
+Free Text:CYYJ Taxiways\S:freetext
+Free Text:CYYJ Taxiways\S De-Ice:freetext
+Free Text:CYYJ Taxiways\Seaplane Ramp:freetext
+Free Text:CYYJ Taxiways\Terminal:freetext
+Free Text:CYYJ Taxiways\TORA Rwy 09 from G 5500':freetext
+Free Text:CYYJ Taxiways\TORA Rwy 09 from K 4500':freetext
+Free Text:CYYJ Taxiways\TORA Rwy 14 from E 3200':freetext
+Free Text:CYYJ Taxiways\TORA Rwy 21 from E 2900':freetext
+Free Text:CYYJ Taxiways\TORA Rwy 27 from S/N 4900':freetext
+Free Text:CYYJ Taxiways\TORA Rwy 27 from W 5700':freetext
+Free Text:CYYJ Taxiways\Twy M restricted to 12,500 Lbs:freetext
+Free Text:CYYJ Taxiways\Victoria Flying Club:freetext
+Free Text:CYYJ Taxiways\VIH Shell:freetext
+Free Text:CYYJ Taxiways\Viscount Center:freetext
+Free Text:CYYJ Taxiways\W:freetext
+Geo:CYYJ Groundlayout:
+Geo:GEO:
+Regions:CYYJ Ground Files:polygon
+Runways:CYYJ 03-21:name
+Runways:CYYJ 09-27:name
+Runways:CYYJ 14-32:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:48.639133:-123.462745:48.659165:-123.403222
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYYJ
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

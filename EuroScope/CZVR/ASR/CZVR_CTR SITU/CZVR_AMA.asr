@@ -1,0 +1,185 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC high boundary:CZVR SECTORLINE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_C_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TSP-RQ:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TSP-RQ:
+Free Text:CZVR AMA\100:freetext
+Free Text:CZVR AMA\100:freetext
+Free Text:CZVR AMA\100:freetext
+Free Text:CZVR AMA\100:freetext
+Free Text:CZVR AMA\101:freetext
+Free Text:CZVR AMA\102:freetext
+Free Text:CZVR AMA\102:freetext
+Free Text:CZVR AMA\103:freetext
+Free Text:CZVR AMA\103:freetext
+Free Text:CZVR AMA\104:freetext
+Free Text:CZVR AMA\104:freetext
+Free Text:CZVR AMA\104:freetext
+Free Text:CZVR AMA\105:freetext
+Free Text:CZVR AMA\106:freetext
+Free Text:CZVR AMA\106:freetext
+Free Text:CZVR AMA\106:freetext
+Free Text:CZVR AMA\107:freetext
+Free Text:CZVR AMA\107:freetext
+Free Text:CZVR AMA\108:freetext
+Free Text:CZVR AMA\108:freetext
+Free Text:CZVR AMA\108:freetext
+Free Text:CZVR AMA\108:freetext
+Free Text:CZVR AMA\109:freetext
+Free Text:CZVR AMA\110:freetext
+Free Text:CZVR AMA\110:freetext
+Free Text:CZVR AMA\111:freetext
+Free Text:CZVR AMA\111:freetext
+Free Text:CZVR AMA\112:freetext
+Free Text:CZVR AMA\113:freetext
+Free Text:CZVR AMA\113:freetext
+Free Text:CZVR AMA\113:freetext
+Free Text:CZVR AMA\114:freetext
+Free Text:CZVR AMA\115:freetext
+Free Text:CZVR AMA\115:freetext
+Free Text:CZVR AMA\115:freetext
+Free Text:CZVR AMA\115:freetext
+Free Text:CZVR AMA\115:freetext
+Free Text:CZVR AMA\115:freetext
+Free Text:CZVR AMA\116:freetext
+Free Text:CZVR AMA\117:freetext
+Free Text:CZVR AMA\118:freetext
+Free Text:CZVR AMA\119:freetext
+Free Text:CZVR AMA\120:freetext
+Free Text:CZVR AMA\121:freetext
+Free Text:CZVR AMA\121:freetext
+Free Text:CZVR AMA\121:freetext
+Free Text:CZVR AMA\123:freetext
+Free Text:CZVR AMA\123:freetext
+Free Text:CZVR AMA\124:freetext
+Free Text:CZVR AMA\124:freetext
+Free Text:CZVR AMA\124:freetext
+Free Text:CZVR AMA\124:freetext
+Free Text:CZVR AMA\125:freetext
+Free Text:CZVR AMA\125:freetext
+Free Text:CZVR AMA\125:freetext
+Free Text:CZVR AMA\127:freetext
+Free Text:CZVR AMA\127:freetext
+Free Text:CZVR AMA\127:freetext
+Free Text:CZVR AMA\127:freetext
+Free Text:CZVR AMA\128:freetext
+Free Text:CZVR AMA\128:freetext
+Free Text:CZVR AMA\129:freetext
+Free Text:CZVR AMA\130:freetext
+Free Text:CZVR AMA\130:freetext
+Free Text:CZVR AMA\130:freetext
+Free Text:CZVR AMA\131:freetext
+Free Text:CZVR AMA\131:freetext
+Free Text:CZVR AMA\133:freetext
+Free Text:CZVR AMA\133:freetext
+Free Text:CZVR AMA\133:freetext
+Free Text:CZVR AMA\135:freetext
+Free Text:CZVR AMA\138:freetext
+Free Text:CZVR AMA\140:freetext
+Free Text:CZVR AMA\140:freetext
+Free Text:CZVR AMA\141:freetext
+Free Text:CZVR AMA\144:freetext
+Free Text:CZVR AMA\144:freetext
+Free Text:CZVR AMA\148:freetext
+Free Text:CZVR AMA\154:freetext
+Free Text:CZVR AMA\156:freetext
+Free Text:CZVR AMA\16:freetext
+Free Text:CZVR AMA\16:freetext
+Free Text:CZVR AMA\29:freetext
+Free Text:CZVR AMA\29:freetext
+Free Text:CZVR AMA\32:freetext
+Free Text:CZVR AMA\33:freetext
+Free Text:CZVR AMA\35:freetext
+Free Text:CZVR AMA\36:freetext
+Free Text:CZVR AMA\38:freetext
+Free Text:CZVR AMA\40:freetext
+Free Text:CZVR AMA\41:freetext
+Free Text:CZVR AMA\44:freetext
+Free Text:CZVR AMA\45:freetext
+Free Text:CZVR AMA\45:freetext
+Free Text:CZVR AMA\48:freetext
+Free Text:CZVR AMA\48:freetext
+Free Text:CZVR AMA\49:freetext
+Free Text:CZVR AMA\49:freetext
+Free Text:CZVR AMA\49:freetext
+Free Text:CZVR AMA\50:freetext
+Free Text:CZVR AMA\50:freetext
+Free Text:CZVR AMA\51:freetext
+Free Text:CZVR AMA\52:freetext
+Free Text:CZVR AMA\53:freetext
+Free Text:CZVR AMA\53:freetext
+Free Text:CZVR AMA\58:freetext
+Free Text:CZVR AMA\59:freetext
+Free Text:CZVR AMA\65:freetext
+Free Text:CZVR AMA\70:freetext
+Free Text:CZVR AMA\73:freetext
+Free Text:CZVR AMA\73:freetext
+Free Text:CZVR AMA\73:freetext
+Free Text:CZVR AMA\74:freetext
+Free Text:CZVR AMA\75:freetext
+Free Text:CZVR AMA\75:freetext
+Free Text:CZVR AMA\77:freetext
+Free Text:CZVR AMA\78:freetext
+Free Text:CZVR AMA\79:freetext
+Free Text:CZVR AMA\79:freetext
+Free Text:CZVR AMA\79:freetext
+Free Text:CZVR AMA\82:freetext
+Free Text:CZVR AMA\83:freetext
+Free Text:CZVR AMA\83:freetext
+Free Text:CZVR AMA\84:freetext
+Free Text:CZVR AMA\84:freetext
+Free Text:CZVR AMA\86:freetext
+Free Text:CZVR AMA\87:freetext
+Free Text:CZVR AMA\88:freetext
+Free Text:CZVR AMA\88:freetext
+Free Text:CZVR AMA\88:freetext
+Free Text:CZVR AMA\88:freetext
+Free Text:CZVR AMA\90:freetext
+Free Text:CZVR AMA\90:freetext
+Free Text:CZVR AMA\91:freetext
+Free Text:CZVR AMA\91:freetext
+Free Text:CZVR AMA\91:freetext
+Free Text:CZVR AMA\91:freetext
+Free Text:CZVR AMA\92:freetext
+Free Text:CZVR AMA\92:freetext
+Free Text:CZVR AMA\94:freetext
+Free Text:CZVR AMA\95:freetext
+Free Text:CZVR AMA\95:freetext
+Free Text:CZVR AMA\95:freetext
+Free Text:CZVR AMA\95:freetext
+Free Text:CZVR AMA\96:freetext
+Free Text:CZVR AMA\96:freetext
+Free Text:CZVR AMA\98:freetext
+Free Text:CZVR AMA\98:freetext
+Free Text:CZVR AMA\98:freetext
+Free Text:CZVR AMA\99:freetext
+Geo:CZVR AMA:
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:47.501789:-140.246278:56.967121:-112.121283
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

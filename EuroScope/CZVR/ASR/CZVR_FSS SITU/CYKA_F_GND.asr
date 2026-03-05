@@ -1,0 +1,69 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYKA Taxiways\1E:freetext
+Free Text:CYKA Taxiways\A:freetext
+Free Text:CYKA Taxiways\B:freetext
+Free Text:CYKA Taxiways\C:freetext
+Free Text:CYKA Taxiways\CAH7:freetext
+Free Text:CYKA Taxiways\D:freetext
+Free Text:CYKA Taxiways\E:freetext
+Free Text:CYKA Taxiways\F:freetext
+Free Text:CYKA Taxiways\FSS:freetext
+Free Text:CYKA Taxiways\G:freetext
+Free Text:CYKA Taxiways\I:freetext
+Free Text:CYKA Taxiways\II:freetext
+Free Text:CYKA Taxiways\Jet Blast Area:freetext
+Free Text:CYKA Taxiways\Terminal (Customs):freetext
+Free Text:CYKA Taxiways\Thompson River:freetext
+Free Text:CYKA Taxiways\Threshold Rwy 23 displaced 249'.:freetext
+Free Text:CYKA Taxiways\V:freetext
+Geo:CYKA Groundlayout:
+Regions:CYKA Ground Files:polygon
+Runways:CYKA 05-23:centerline
+Runways:CYKA 05-23:name
+Runways:CYKA 09-27:centerline
+Runways:CYKA 09-27:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:7
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:SITU
+WINDOWAREA:50.695305:-120.470407:50.711460:-120.420146
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYKA
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

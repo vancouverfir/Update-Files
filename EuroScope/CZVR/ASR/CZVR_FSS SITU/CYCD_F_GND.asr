@@ -1,0 +1,63 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYCD Taxiways\1:freetext
+Free Text:CYCD Taxiways\2:freetext
+Free Text:CYCD Taxiways\3:freetext
+Free Text:CYCD Taxiways\A:freetext
+Free Text:CYCD Taxiways\Apron I:freetext
+Free Text:CYCD Taxiways\Apron II:freetext
+Free Text:CYCD Taxiways\Apron III:freetext
+Free Text:CYCD Taxiways\B:freetext
+Free Text:CYCD Taxiways\C:freetext
+Free Text:CYCD Taxiways\FSS:freetext
+Free Text:CYCD Taxiways\G:freetext
+Free Text:CYCD Taxiways\Grass Tie Down Area:freetext
+Free Text:CYCD Taxiways\Taxiway G and Apron II rstd to 5,000 lbs:freetext
+Geo:CYCD Groundlayout:
+Regions:CYCD Ground Files:polygon
+Runways:CYCD 16-34:centerline
+Runways:CYCD 16-34:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:359.00000
+TAGFAMILY:SITU
+WINDOWAREA:49.040650:-123.917283:49.070743:-123.823616
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYCD
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

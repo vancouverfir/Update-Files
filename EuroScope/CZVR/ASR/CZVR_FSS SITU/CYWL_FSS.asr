@@ -1,0 +1,81 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:CZVR CLASS_C_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_D_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_E_CTACTR_CZ:
+ARTCC high boundary:CZVR CLASS_A_CTACTR_TCA:
+ARTCC high boundary:CZVR SECTORLINE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_C_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TSP-RQ:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TSP-RQ:
+Fixes:AMBOL:name
+Fixes:AMBOL:symbol
+Fixes:DEKVU:name
+Fixes:DEKVU:symbol
+Fixes:EMIBO:name
+Fixes:EMIBO:symbol
+Fixes:ETBAN:name
+Fixes:ETBAN:symbol
+Fixes:ILOBU:name
+Fixes:ILOBU:symbol
+Fixes:IRLER:name
+Fixes:IRLER:symbol
+Fixes:LIBUP:name
+Fixes:LIBUP:symbol
+Fixes:ODGOS:name
+Fixes:ODGOS:symbol
+Fixes:VCBRU:name
+Fixes:VCBRU:symbol
+Fixes:VCDGN:name
+Fixes:VCDGN:symbol
+Fixes:VCOFZ:name
+Fixes:VCOFZ:symbol
+Fixes:VCROS:name
+Fixes:VCROS:symbol
+Fixes:VCWCR:name
+Fixes:VCWCR:symbol
+Free Text:CYWL VFR Checkpoints\150 MILE HOUSE:freetext
+Free Text:CYWL VFR Checkpoints\BRUNSON LAKE:freetext
+Free Text:CYWL VFR Checkpoints\DUGAN LAKE:freetext
+Free Text:CYWL VFR Checkpoints\ROSE LAKE:freetext
+Free Text:CYWL VFR Checkpoints\WILLIAMS CREEK:freetext
+Geo:CZVR CZVR_AirspaceF_CYA:
+Geo:CZVR CZVR_AirspaceF_CYD:
+Geo:CZVR CZVR_AirspaceF_CYR:
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+Regions:CZVR CZVR_AirspaceG:polygon
+Runways:CYWL 12-30:centerline
+Runways:CYWL 12-30:name
+Stars:CYWL RNAV12 AMBOL:
+Stars:CYWL RNAV12 ETBAN:
+Stars:CYWL RNAV30 LIBUP:
+Stars:CYWL RNAV30 ODGOS:
+VORs:YWL:name
+VORs:YWL:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:51.981288:-122.655717:52.385774:-121.453840
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

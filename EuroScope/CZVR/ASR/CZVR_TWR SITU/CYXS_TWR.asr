@@ -1,0 +1,111 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:CAS3:name
+Airports:CAS3:symbol
+Airports:CAU4:name
+Airports:CAU4:symbol
+Airports:CYQZ:name
+Airports:CYQZ:symbol
+ARTCC boundary:CZVR CLASS_C_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_D_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_E_CTACTR_CZ:
+Fixes:ALIVE:name
+Fixes:ALIVE:symbol
+Fixes:AXIGA:name
+Fixes:AXIGA:symbol
+Fixes:BEPEX:name
+Fixes:BEPEX:symbol
+Fixes:BOSOK:name
+Fixes:BOSOK:symbol
+Fixes:CHUBB:name
+Fixes:CHUBB:symbol
+Fixes:DAVII:name
+Fixes:DAVII:symbol
+Fixes:DAVON:name
+Fixes:DAVON:symbol
+Fixes:EBKAD:name
+Fixes:EBKAD:symbol
+Fixes:EMUDU:name
+Fixes:EMUDU:symbol
+Fixes:FIGGI:name
+Fixes:FIGGI:symbol
+Fixes:GOTET:name
+Fixes:GOTET:symbol
+Fixes:IKMUS:name
+Fixes:IKMUS:symbol
+Fixes:ILITA:name
+Fixes:ILITA:symbol
+Fixes:MUXOV:name
+Fixes:MUXOV:symbol
+Fixes:NOXEL:name
+Fixes:NOXEL:symbol
+Fixes:OMSED:name
+Fixes:OMSED:symbol
+Fixes:OVOGU:name
+Fixes:OVOGU:symbol
+Fixes:RAPID:name
+Fixes:RAPID:symbol
+Fixes:ULEBU:name
+Fixes:ULEBU:symbol
+Fixes:UMEPO:name
+Fixes:UMEPO:symbol
+Fixes:VOLES:name
+Fixes:VOLES:symbol
+Fixes:XIGUP:name
+Fixes:XIGUP:symbol
+Fixes:XUKEB:name
+Fixes:XUKEB:symbol
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+High airways:J510:line
+High airways:J510:name
+Low airways:V301:line
+Low airways:V301:name
+Low airways:V306:line
+Low airways:V306:name
+Low airways:V321:line
+Low airways:V321:name
+Low airways:V325:line
+Low airways:V325:name
+NDBs:XS:name
+NDBs:XS:symbol
+NDBs:ZXS:name
+NDBs:ZXS:symbol
+Runways:CYXS 01-19:centerline
+Runways:CYXS 06-24:centerline
+Runways:CYXS 15-33:centerline
+Runways:CYXS 15-33:extended centerline 1
+Runways:CYXS 15-33:extended centerline 1 left base
+Runways:CYXS 15-33:extended centerline 1 left ticks
+Runways:CYXS 15-33:extended centerline 1 left vectoring
+Runways:CYXS 15-33:extended centerline 1 right base
+Runways:CYXS 15-33:extended centerline 1 right ticks
+Runways:CYXS 15-33:extended centerline 1 right vectoring
+VORs:YQU:name
+VORs:YQU:symbol
+VORs:YWL:name
+VORs:YWL:symbol
+VORs:YXS:name
+VORs:YXS:symbol
+VORs:YYD:name
+VORs:YYD:symbol
+VORs:YZU:name
+VORs:YZU:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:53.621311:-123.463112:54.153134:-121.882867
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

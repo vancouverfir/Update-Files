@@ -1,0 +1,241 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:CAK3:name
+Airports:CAK3:symbol
+Airports:CAT4:name
+Airports:CAT4:symbol
+Fixes:ADSIK:name
+Fixes:ADSIK:symbol
+Fixes:BBELT:name
+Fixes:BBELT:symbol
+Fixes:BUICK:name
+Fixes:BUICK:symbol
+Fixes:CASDY:name
+Fixes:CASDY:symbol
+Fixes:DISCO:name
+Fixes:DISCO:symbol
+Fixes:DUNJY:name
+Fixes:DUNJY:symbol
+Fixes:DUXUM:name
+Fixes:DUXUM:symbol
+Fixes:EGRET:name
+Fixes:EGRET:symbol
+Fixes:EVRTT:name
+Fixes:EVRTT:symbol
+Fixes:FASBO:name
+Fixes:FASBO:symbol
+Fixes:FAXTO:name
+Fixes:FAXTO:symbol
+Fixes:FERRY:name
+Fixes:FERRY:symbol
+Fixes:FOCHE:name
+Fixes:FOCHE:symbol
+Fixes:GERRD:name
+Fixes:GERRD:symbol
+Fixes:GOTOK:name
+Fixes:GOTOK:symbol
+Fixes:HADER:name
+Fixes:HADER:symbol
+Fixes:IKMUV:name
+Fixes:IKMUV:symbol
+Fixes:IKURI:name
+Fixes:IKURI:symbol
+Fixes:IMPOR:name
+Fixes:IMPOR:symbol
+Fixes:ITGIL:name
+Fixes:ITGIL:symbol
+Fixes:KEKPO:name
+Fixes:KEKPO:symbol
+Fixes:KELNA:name
+Fixes:KELNA:symbol
+Fixes:LAFFO:name
+Fixes:LAFFO:symbol
+Fixes:LANNE:name
+Fixes:LANNE:symbol
+Fixes:LIRLO:name
+Fixes:LIRLO:symbol
+Fixes:MADEE:name
+Fixes:MADEE:symbol
+Fixes:MEPMU:name
+Fixes:MEPMU:symbol
+Fixes:MIROL:name
+Fixes:MIROL:symbol
+Fixes:MUBOV:name
+Fixes:MUBOV:symbol
+Fixes:NANOO:name
+Fixes:NANOO:symbol
+Fixes:NOTEK:name
+Fixes:NOTEK:symbol
+Fixes:NUTBE:name
+Fixes:NUTBE:symbol
+Fixes:OBSOP:name
+Fixes:OBSOP:symbol
+Fixes:OMINO:name
+Fixes:OMINO:symbol
+Fixes:OTIKA:name
+Fixes:OTIKA:symbol
+Fixes:PESGU:name
+Fixes:PESGU:symbol
+Fixes:RAGIT:name
+Fixes:RAGIT:symbol
+Fixes:TALPI:name
+Fixes:TALPI:symbol
+Fixes:TASDI:name
+Fixes:TASDI:symbol
+Fixes:TECUV:name
+Fixes:TECUV:symbol
+Fixes:TREEL:name
+Fixes:TREEL:symbol
+Fixes:TUBTY:name
+Fixes:TUBTY:symbol
+Fixes:UCAKI:name
+Fixes:UCAKI:symbol
+Fixes:UKNUP:name
+Fixes:UKNUP:symbol
+Fixes:VOGAD:name
+Fixes:VOGAD:symbol
+Fixes:YAANO:name
+Fixes:YAANO:symbol
+Fixes:ZONUV:name
+Fixes:ZONUV:symbol
+Free Text:CYXX _X_RNAV_HE4_CYXX\/80 70/:freetext
+Free Text:CYXX _X_RNAV_HE4_CYXX\/90/:freetext
+Free Text:CYXX _X_RNAV_HE4_CYXX\30/:freetext
+Free Text:CYXX _X_RNAV_HE4_CYXX\50/:freetext
+Free Text:CYXX _X_RNAV_HE4_CYXX\60/:freetext
+Free Text:CYXX _X_RNAV_HE4_CYXX\70/:freetext
+Free Text:CYXX _X_RNAV_MADEE4_CYXX\/70 50/:freetext
+Free Text:CYXX _X_RNAV_MADEE4_CYXX\20/:freetext
+Free Text:CYXX _X_RNAV_MADEE4_CYXX\35/:freetext
+Free Text:CYXX _X_RNAV_MADEE4_CYXX\40/:freetext
+Free Text:CYXX _X_RNAV_MADEE4_CYXX\40/:freetext
+Free Text:CYXX _X_RNAV_MADEE4_CYXX\70/:freetext
+Free Text:CYYJ _X_RNAV_APASS6_Rwy27\/160 130/:freetext
+Free Text:CYYJ _X_RNAV_APASS6_Rwy27\/200:freetext
+Free Text:CYYJ _X_RNAV_APASS6_Rwy27\/200:freetext
+Free Text:CYYJ _X_RNAV_APASS6_Rwy27\/200:freetext
+Free Text:CYYJ _X_RNAV_APASS6_Rwy27\30/:freetext
+Free Text:CYYJ _X_RNAV_DISCO4_Rwy27\23/:freetext
+Free Text:CYYJ _X_RNAV_DISCO4_Rwy27\30/:freetext
+Free Text:CYYJ _X_RNAV_DISCO4_Rwy27\50/:freetext
+Geo:CYVR CYVR_MRVA_Altitudes:
+Geo:CYVR CYVR_MRVA_Sectors:
+Geo:CZVR CZVR_AirspaceF_CYR:
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+NDBs:AP:name
+NDBs:AP:symbol
+NDBs:FHR:symbol
+NDBs:HE:name
+NDBs:HE:symbol
+NDBs:MB:name
+NDBs:MB:symbol
+NDBs:VR:name
+NDBs:VR:symbol
+NDBs:WC:name
+NDBs:WC:symbol
+NDBs:XX:name
+NDBs:XX:symbol
+NDBs:YCD:name
+NDBs:YCD:symbol
+NDBs:YJ:name
+NDBs:YJ:symbol
+Runways:CYCD 16-34:centerline
+Runways:CYCD 16-34:extended centerline 1
+Runways:CYCD 16-34:extended centerline 1 left ticks
+Runways:CYCD 16-34:extended centerline 1 left vectoring
+Runways:CYCD 16-34:extended centerline 1 right ticks
+Runways:CYCD 16-34:extended centerline 1 right vectoring
+Runways:CYNJ 01-19:centerline
+Runways:CYNJ 07-25:centerline
+Runways:CYPK 08L-26R:centerline
+Runways:CYPK 08R-26L:centerline
+Runways:CYPK 18-36:centerline
+Runways:CYVR 08L-26R:centerline
+Runways:CYVR 08L-26R:extended centerline 1
+Runways:CYVR 08L-26R:extended centerline 1 left ticks
+Runways:CYVR 08L-26R:extended centerline 1 left vectoring
+Runways:CYVR 08L-26R:extended centerline 2
+Runways:CYVR 08L-26R:extended centerline 2 right ticks
+Runways:CYVR 08L-26R:extended centerline 2 right vectoring
+Runways:CYVR 08R-26L:centerline
+Runways:CYVR 08R-26L:extended centerline 1
+Runways:CYVR 08R-26L:extended centerline 1 right ticks
+Runways:CYVR 08R-26L:extended centerline 1 right vectoring
+Runways:CYVR 08R-26L:extended centerline 2
+Runways:CYVR 08R-26L:extended centerline 2 left ticks
+Runways:CYVR 08R-26L:extended centerline 2 left vectoring
+Runways:CYVR 13-31:centerline
+Runways:CYXX 01-19:centerline
+Runways:CYXX 07-25:centerline
+Runways:CYXX 07-25:extended centerline 1
+Runways:CYXX 07-25:extended centerline 1 left ticks
+Runways:CYXX 07-25:extended centerline 1 left vectoring
+Runways:CYXX 07-25:extended centerline 1 right ticks
+Runways:CYXX 07-25:extended centerline 1 right vectoring
+Runways:CYYJ 03-21:centerline
+Runways:CYYJ 09-27:centerline
+Runways:CYYJ 09-27:extended centerline 1
+Runways:CYYJ 09-27:extended centerline 1 left ticks
+Runways:CYYJ 09-27:extended centerline 1 left vectoring
+Runways:CYYJ 09-27:extended centerline 1 right ticks
+Runways:CYYJ 09-27:extended centerline 1 right vectoring
+Runways:CYYJ 09-27:extended centerline 2
+Runways:CYYJ 09-27:extended centerline 2 left ticks
+Runways:CYYJ 09-27:extended centerline 2 left vectoring
+Runways:CYYJ 09-27:extended centerline 2 right ticks
+Runways:CYYJ 09-27:extended centerline 2 right vectoring
+Runways:CYYJ 14-32:centerline
+Runways:CZBB 07-25:centerline
+Runways:CZBB 07-25:extended centerline 1
+Runways:CZBB 13-31:centerline
+Runways:KBLI 16-34:centerline
+Runways:KBLI 16-34:extended centerline 1
+Runways:KBLI 16-34:extended centerline 1 left ticks
+Runways:KBLI 16-34:extended centerline 1 left vectoring
+Runways:KBLI 16-34:extended centerline 1 right ticks
+Runways:KBLI 16-34:extended centerline 1 right vectoring
+Sids:CYYJ SID 27 MB8:
+Sids:CYYJ SID 32 CLOAK6:
+Sids:CYYJ SID 32 MB8:
+Sids:CYYJ SID KELNA MB8:
+Sids:CYYJ SID YVR MB8:
+Stars:CYXX STAR 07 HE4:
+Stars:CYYJ STAR 27 APASS6:
+Stars:CYYJ STAR 27 DISCO4:
+Stars:CYYJ STAR BOOTH APASS6:
+Stars:CYYJ STAR HE APASS6:
+Stars:CYYJ STAR KEINN APASS6:
+Stars:KBLI STAR 16 MADEE4:
+Stars:KBLI STAR 34 MADEE4:
+VORs:CVV:name
+VORs:CVV:symbol
+VORs:HUH:name
+VORs:HUH:symbol
+VORs:PAE:name
+VORs:PAE:symbol
+VORs:YPK:name
+VORs:YPK:symbol
+VORs:YVR:name
+VORs:YVR:symbol
+VORs:YYJ:name
+VORs:YYJ:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:48.274443:-124.946784:49.354847:-121.736505
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

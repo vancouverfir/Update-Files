@@ -1,0 +1,66 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC high boundary:CZVR SECTORLINE:
+Free Text:CZVR FIR Sector Ownership\CZVR_A_CTR 0-250:freetext
+Free Text:CZVR FIR Sector Ownership\CZVR_C_CTR ABV-250:freetext
+Free Text:CZVR FIR Sector Ownership\CZVR_E_CTR:freetext
+Free Text:CZVR FIR Sector Ownership\CZVR_H_CTR:freetext
+Free Text:CZVR FIR Sector Ownership\CZVR_H_CTR 0-280:freetext
+Free Text:CZVR FIR Sector Ownership\CZVR_K_CTR:freetext
+Free Text:CZVR FIR Sector Ownership\CZVR_K_CTR ABV-255 (KZAK 0-255):freetext
+Free Text:CZVR FIR Sector Ownership\CZVR_N_CTR:freetext
+Free Text:CZVR FIR Sector Ownership\CZVR_S_CTR:freetext
+Free Text:CZVR FIR Sector Ownership\CZVR_W_CTR:freetext
+Free Text:CZVR FIR Sector Ownership\CZVR_X_CTR:freetext
+Free Text:CZVR FIR Sector Ownership\CZVR_Y_CTR ABV-250:freetext
+Free Text:CZVR FIR Sector Ownership\CZVR_Z_CTR:freetext
+Free Text:CZVR FIR Sector Ownership\CZVR_Z_CTR ABV-255 (ZAK 0-255):freetext
+Free Text:CZVR FIR Sector Ownership\CZVR_Z_CTR ABV-280:freetext
+Free Text:CZVR FIR Sector Ownership\Freq 125.950:freetext
+Free Text:CZVR FIR Sector Ownership\Freq 128.800:freetext
+Free Text:CZVR FIR Sector Ownership\Freq 132.200:freetext
+Free Text:CZVR FIR Sector Ownership\Freq 132.350:freetext
+Free Text:CZVR FIR Sector Ownership\Freq 132.900:freetext
+Free Text:CZVR FIR Sector Ownership\Freq 133.400:freetext
+Free Text:CZVR FIR Sector Ownership\Freq 133.800:freetext
+Free Text:CZVR FIR Sector Ownership\Freq 134.400:freetext
+Free Text:CZVR FIR Sector Ownership\Freq 134.550:freetext
+Free Text:CZVR FIR Sector Ownership\Freq 135.250:freetext
+Free Text:CZVR FIR Sector Ownership\Freq 135.500:freetext
+Free Text:CZVR FIR Sector Ownership\Owner A, C, E:freetext
+Free Text:CZVR FIR Sector Ownership\Owner A, X, N, E:freetext
+Free Text:CZVR FIR Sector Ownership\Owner C,E:freetext
+Free Text:CZVR FIR Sector Ownership\Owner E, A:freetext
+Free Text:CZVR FIR Sector Ownership\Owner H, N:freetext
+Free Text:CZVR FIR Sector Ownership\Owner K, W:freetext
+Free Text:CZVR FIR Sector Ownership\Owner N:freetext
+Free Text:CZVR FIR Sector Ownership\Owner S, E:freetext
+Free Text:CZVR FIR Sector Ownership\Owner W:freetext
+Free Text:CZVR FIR Sector Ownership\Owner X, N:freetext
+Free Text:CZVR FIR Sector Ownership\Owner Y, E:freetext
+Free Text:CZVR FIR Sector Ownership\Owner Z, K, W:freetext
+Free Text:CZVR FIR Sector Ownership\Owner Z, W:freetext
+Free Text:CZVR FIR Sector Ownership\CYLW_APP 0-140:freetext
+Free Text:CZVR FIR Sector Ownership\Owner APP, A, X, N, E:freetext
+Free Text:CZVR FIR Sector Ownership\Freq 133.500:freetext
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:48.117865:-137.246161:56.082766:-113.579501
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

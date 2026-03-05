@@ -1,0 +1,90 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC boundary:CZVR CLASS_D_CTACTR_CZ:
+ARTCC boundary:CZVR CLASS_E_CTACTR_CZ:
+ARTCC high boundary:CZVR CLASS_A_CTACTR_TCA:
+ARTCC high boundary:CZVR SECTORLINE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_B_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_C_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_D_CTACTR_TSP-RQ:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_CAE:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TCA:
+ARTCC low boundary:CZVR CLASS_E_CTACTR_TSP-RQ:
+Fixes:ALUDI:name
+Fixes:ALUDI:symbol
+Fixes:ANVEN:name
+Fixes:ANVEN:symbol
+Fixes:BITVU:name
+Fixes:BITVU:symbol
+Fixes:BODPA:name
+Fixes:BODPA:symbol
+Fixes:DUPOT:name
+Fixes:DUPOT:symbol
+Fixes:GUDEM:name
+Fixes:GUDEM:symbol
+Fixes:LERAD:name
+Fixes:LERAD:symbol
+Fixes:LIRVI:name
+Fixes:LIRVI:symbol
+Fixes:NOVEX:name
+Fixes:NOVEX:symbol
+Fixes:PESMI:name
+Fixes:PESMI:symbol
+Fixes:UDBOV:name
+Fixes:UDBOV:symbol
+Fixes:UKVUB:name
+Fixes:UKVUB:symbol
+Fixes:URNOG:name
+Fixes:URNOG:symbol
+Fixes:VCDWD:name
+Fixes:VCDWD:symbol
+Fixes:VCSHL:name
+Fixes:VCSHL:symbol
+Fixes:VCTRT:name
+Fixes:VCTRT:symbol
+Fixes:VEVTA:name
+Fixes:VEVTA:symbol
+Free Text:CYYD VFR Checkpoints\DRIFTWOOD:freetext
+Free Text:CYYD VFR Checkpoints\SKI HILL:freetext
+Free Text:CYYD VFR Checkpoints\TROUT CREEK:freetext
+Geo:CZVR CZVR_AirspaceF_CYA:
+Geo:CZVR CZVR_AirspaceF_CYD:
+Geo:CZVR CZVR_AirspaceF_CYR:
+Geo:CZVR CZVR_Coastline:
+Geo:CZVR CZVR_Rivers:
+Geo:GEO:
+Regions:CZVR CZVR_AirspaceG:polygon
+Runways:CYYD 15-33:centerline
+Runways:CYYD 15-33:name
+Sids:CYYD SID 15 HUSTN2:
+Sids:CYYD SID 33 HUSTN2:
+Stars:CYYD RNAV15-Y LERAD:
+Stars:CYYD RNAV15-Y VEVTA:
+Stars:CYYD RNAV33-X GUDEM:
+Stars:CYYD RNAV33-X UKVUB:
+Stars:CYYD RNAV33-X YYD:
+Stars:CYYD RNAV33-Y PESMI:
+VORs:YYD:name
+VORs:YYD:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:342.00000
+TAGFAMILY:SITU
+WINDOWAREA:54.664118:-127.664787:54.987707:-126.703285
+PLUGIN:VATCANSitu:DisplayTypeName:IFR
