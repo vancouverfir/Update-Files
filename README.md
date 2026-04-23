@@ -35,7 +35,7 @@ The CZVR File Updater is designed to simplify the process of keeping your CZVR E
 **A:** This message appears when you've missed multiple update cycles. The updater will automatically install the complete package instead of a delta update to ensure all files are current. Your backup will be preserved.
 
 ### Q: How often should I run the updater?
-**A:** The updater runs automatically each time you launch EuroScope and will let you know should there be any updates
+**A:** The updater runs automatically each time you launch EuroScope and will let you know should there be any updates.
 
 ### Q: Can I move my EuroScope folder after installing?
 **A:** Yes, but you'll need to tell the updater your new location. If the previously selected folder no longer exists, you'll be prompted to select a new one on the next launch.
