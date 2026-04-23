@@ -25,6 +25,9 @@ The CZVR File Updater is designed to simplify the process of keeping your CZVR E
 ### Q: How do I change my install location?
 **A:** Click on the folder path link in the application to select a different install directory
 
+### Q: Can I rename the `CZVR_Files` folder?
+**A:** **No, do not rename the `CZVR_Files` folder.** The updater relies on this exact folder name to locate and update your installation. Renaming it will cause the updater to think CZVR is not installed and may result in duplicate installations. If you've already renamed it, rename it back to `CZVR_Files`.
+
 ### Q: Where does my data get saved?
 **A:** Your EuroScope folder path and installed version are saved in `%APPDATA%\EuroScope\CZVR_File_Updater\`. All CZVR files are installed to your selected EuroScope folder under the `CZVR_Files` subdirectory. Backups are created in: `[File_Folder]\CZVR_Backups\`
 
