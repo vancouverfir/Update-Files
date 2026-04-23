@@ -24,7 +24,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2601/1  ++  File-Publisher: Vancouver FIR - CZVR                                                                 ;
+;  AIRAC 2604/1  ++  File-Publisher: Vancouver FIR - CZVR                                                                 ;
 ;=========================================================================================================================;
 ;*** ALTIMETER AND WX ***
 .a Altimeter $altim($dep)
