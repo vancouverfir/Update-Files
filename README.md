@@ -2,6 +2,11 @@
 
 A Windows-based updater application for CZVR (Vancouver FIR) navigation data and EuroScope plugin files. This tool automatically checks for updates and manages installations with backup/restore.
 
+## Direct Links
+Install Package : https://codeload.github.com/vancouverfir/CZVR-Update-Files/zip/refs/heads/default
+
+Update Package : https://codeload.github.com/vancouverfir/CZVR-Update-Files/zip/refs/heads/dev
+
 ## Overview
 
 The CZVR File Updater is designed to simplify the process of keeping your CZVR EuroScope plugin and navigation data current. It features:
