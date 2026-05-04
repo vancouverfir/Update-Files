@@ -5,9 +5,9 @@ A Windows-based updater application for CZVR (Vancouver FIR) navigation data and
 ## Direct Links
 Updater : https://github.com/vancouverfir/CZVR-Update-Files/releases/latest/download/CZVR_File_Updater.exe
 
-Install Package : https://codeload.github.com/vancouverfir/CZVR-Update-Files/zip/refs/heads/default
+Manual Install Package : https://codeload.github.com/vancouverfir/CZVR-Update-Files/zip/refs/heads/default
 
-Update Package : https://codeload.github.com/vancouverfir/CZVR-Update-Files/zip/refs/heads/dev
+Manual Update Package : https://codeload.github.com/vancouverfir/CZVR-Update-Files/zip/refs/heads/dev
 
 ## Overview
 
